@@ -1,3 +1,5 @@
+.. image:: docs/source/img/KRK2UIOverview.jpg
+
 Overview
 =====
 
