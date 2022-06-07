@@ -12,10 +12,15 @@ Drag the Capsmat from the Asset Browser onto one of the keycaps. With that keyca
 The palette system is designed to facilitate color exploration. You can start off with custom colors on a per object basis and then later take a more rigid approach using defined palettes in the material editor.
 
 The palettes are general purpose node groups but by default they are set to:
+
 A: Cap color
+
 B: Legend color
+
 C: Sublegend color (not applied)
+
 D: Front legend color (not applied)
+
 E: Legend masks
 
 Test out the sliders on a keycap and flip over to custom to set your own custom colors. Once you have something you like, you can set it to all of the other keycaps by hitting the Set button in the Color section with that keycap selected last.
