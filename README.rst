@@ -1,4 +1,4 @@
-[[/docs/source/img/PolyclearPhoenix45WKL.jpg|Alt TEXT]]
+[[/images/PolyclearPhoenix45WKL.jpg|Alt TEXT]]
 
 Welcome to Keyboard Render Kit documentation!
 
