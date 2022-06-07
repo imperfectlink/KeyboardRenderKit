@@ -9,7 +9,7 @@ Welcome to Keyboard Render Kit documentation!
    This project is under active development.
 
 Contents
---------
+----
 
 .. toctree::
 
