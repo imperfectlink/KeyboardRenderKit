@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Keyboard Render kit'
+copyright = '2022, ImperfectLink'
+author = 'ImperfectLink'
 
-release = '0.1'
-version = '0.1.0'
+release = '2.0.1'
+version = '2.0.1'
 
 # -- General configuration
 
