@@ -32,7 +32,9 @@ Keycap colors are now able to be stored on the object rather than just is the ma
 Use the slider for Palette E to change the legend of a modifier key between Text, Icon or Text+Icon. 
 
 Add a floor by turning on the visibility options for FloorLightGrey in the Outliner. It can be found as the first item in Scene>Floors.
+
 .. image:: img/floorvis.gif
+
 Click on Render>Render Image or press F12 to render your first image.
 
 You've just completed example workflow tutorial 1.
