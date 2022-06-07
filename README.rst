@@ -1,4 +1,4 @@
-![krk banner](../docs/source/img/PolyclearPhoenix45WKL.jpg?raw=true)
+![krk banner](docs/source/img/PolyclearPhoenix45WKL.jpg?raw=true)
 
 Welcome to Keyboard Render Kit documentation!
 
