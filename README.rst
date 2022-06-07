@@ -1,4 +1,4 @@
-![krk banner](https://raw.githubusercontent.com/imperfectlink/KeyboardRenderKit/main/docs/source/img/PolyclearPhoenix45WKL.jpg)
+![krk banner](../docs/source/img/PolyclearPhoenix45WKL.jpg)
 
 Welcome to Keyboard Render Kit documentation!
 
