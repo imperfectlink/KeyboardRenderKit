@@ -1,3 +1,4 @@
+/img/PolyclearPhoenix45WKL.jpg
 Welcome to Keyboard Render Kit documentation!
 ===================================
 
