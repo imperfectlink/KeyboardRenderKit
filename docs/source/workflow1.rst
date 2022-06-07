@@ -37,6 +37,8 @@ Add a floor by turning on the visibility options for FloorLightGrey in the Outli
 
 Click on Render>Render Image or press F12 to render your first image.
 
+.. image img/w1render.jpg
+
 You've just completed example workflow tutorial 1.
 
 Bonus points:
