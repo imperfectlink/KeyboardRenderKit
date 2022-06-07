@@ -18,6 +18,7 @@ Blender 3.1 or newer
 
    gettingstarted
    overview
+   krkpanel
    usage
    test
    api
