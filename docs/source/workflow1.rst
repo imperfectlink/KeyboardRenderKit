@@ -2,6 +2,7 @@ Example Workflow Tutorial 1
 ====
 
 The first thing you'll notice when you get started is that there are no keycaps. Instead there are many planes in the viewport. These are placeholders that can be replaced with keycaps.
+
 Select the placeholders by dragging a box selection and then press the Set button in the Relink section of the KRK panel. The relink process ignores all but the keycap objects and you should now have Cherry profile keycaps. Relink will also ignore keycaps that don't have destination object data. Profile prefixes can be found in the Profile collection. They are also listed here: [link to Profiles page]
 
 Drag the Capsmat from the Asset Browser onto one of the keycaps. With that keycap as the active object (highlighted), you can link the material to the other keycaps with control+L then material or just press the Copy button in the Data section of the KRK panel.
