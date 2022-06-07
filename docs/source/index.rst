@@ -17,6 +17,7 @@ Blender 3.1 or newer
 .. toctree::
 
    overview
+   gettingstarted
    usage
    test
    api
