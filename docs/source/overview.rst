@@ -1,7 +1,7 @@
-.. image:: img/KRK2UIOverview.jpg
-
 Overview
 =====
+
+.. image:: img/KRK2UIOverview.jpg
 
 Asset Browser
 ----
