@@ -8,6 +8,7 @@ KRK2 is designed to build on the object data swapping workflow of KRK1 while mak
 .. requirement::
 
 Blender 3.1 or newer
+::
 
 
 .. toctree::
