@@ -4,7 +4,9 @@ Besides overall scene complexity, there are a few manjor factors that affect you
 
 Resolution
 ----
-Image resolution plays a large part in the amount of time it takes to render an image. If for example you increase the fidelity of your image by bumping the resolution from 2k to 4k by setting the percent slider to 200%, your computer now has to process 4x the number of pixels. This can lead to much crisper images at the cost of much greater render times.
+Image resolution plays a large part in the amount of time it takes to render an image. Havijg too low a resolution will manifest as a "pixelated" image. Diagonal lines will appear jagged and fine detail may lack the desired definition.
+
+If for example you increase the fidelity of your image by bumping the resolution from 2k to 4k by setting the percent slider to 200%, your computer now has to process 4x the number of pixels. This can lead to much crisper images at the cost of much greater render times.
 
 Render Samples
 ----
