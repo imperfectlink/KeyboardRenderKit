@@ -3,7 +3,7 @@ Getting Started
 
 What's In The Box
 ----
-In your download section, you'll find a zip file containing a blend file and a txt file as well as SVG's and other assets that are legend template related. Downloads and extract the zip file into a folder so the contents are together. The txt file acts as a sidecar for Blender's asset management within the blend file.
+In your download section, you'll find a zip file containing a blend file and a txt file as well as SVG's and other assets that are legend template related. Download and extract the zip file into a folder so the contents are together. The txt file acts as a sidecar for Blender's asset management within the blend file.
 
 Getting Started
 ----
@@ -12,4 +12,8 @@ Getting started with KRK2 is as simple as it was in the original KRK. Using Blen
 .. image:: img/allowscript.jpg
 
 The KRK2 UI layout is most similar to Blender's Shading layout with the left column changed from file browser and image editor switched to asset browser and UV editor with an added KRK tab in the sidebar.
-[Blender UI image]
+
+Getting Help
+----
+Join our community:
+##[**Discord**](https://discord.gg/fVkGTunzT3) |
