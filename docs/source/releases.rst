@@ -1,4 +1,4 @@
-Realease Logs
+Release Logs
 ====
 KRK201
 ----
