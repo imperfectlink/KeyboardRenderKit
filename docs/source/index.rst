@@ -19,6 +19,7 @@ Blender 3.1 or newer
    gettingstarted
    overview
    krkpanel
+   :caption: Tutorials:
    workflow1
    workflow2
    
