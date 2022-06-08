@@ -17,4 +17,4 @@ Getting Help
 ----
 Join our community:
 
-**Discord**(https://discord.gg/fVkGTunzT3)
+'Discord <https://discord.gg/fVkGTunzT3>'_
