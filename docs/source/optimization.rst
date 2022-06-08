@@ -1,6 +1,6 @@
 Optimizing Your Render
 ====
-Besides overall scene complexity, there are a few manjor factors that affect your render time and quality.
+Besides overall scene complexity, there are a few major factors that affect your render time and quality.
 
 Resolution
 ----
