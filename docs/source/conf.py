@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Keyboard Render kit'
+project = 'Keyboard Render Kit'
 copyright = '2022, ImperfectLink'
 author = 'ImperfectLink'
 
