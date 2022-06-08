@@ -15,10 +15,19 @@ Blender 3.1 or newer
 
 
 .. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Getting Started
 
    gettingstarted
    overview
    krkpanel
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Tutorials
+   
    workflow1
    workflow2
    optimization
