@@ -16,7 +16,7 @@ def get_random_ingredients(kind=None):
 
     :param kind: Optional "kind" of keycaps.
     :type kind: list[str] or None
-    :raise lumache.InvalidKindError: If the kind is invalid.
+    :raise krk.InvalidKindError: If the kind is invalid.
     :return: The ingredients list.
     :rtype: list[str]
     """
