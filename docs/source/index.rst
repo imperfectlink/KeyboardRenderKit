@@ -22,4 +22,5 @@ Blender 3.1 or newer
    workflow1
    workflow2
    optimization
-   
+   boards
+   releases
