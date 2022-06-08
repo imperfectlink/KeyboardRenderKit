@@ -30,6 +30,12 @@ Blender 3.1 or newer
    
    workflow1
    workflow2
+   
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Further Information
+   
    optimization
    
 .. toctree::
