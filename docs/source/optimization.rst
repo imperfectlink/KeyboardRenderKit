@@ -1,6 +1,6 @@
-Optimizing your render.
+Optimizing Your Render
 ====
-Besides overall scene complexity, there are a few manjor factors that affect your render time and quality.
+Besides overall scene complexity, there are a few major factors that affect your render time and quality.
 
 Resolution
 ----
@@ -14,4 +14,5 @@ The number of samples used is also a key point in optimizing your render. Having
 
 Denoising
 ----
-For as long as digital imaging has existed, so has the need for noise reduction. Whether the source image has been a digital photograph, a scan or entirely computer generated, the methods still apply.
+For as long as digital imaging has existed, so has the need for noise reduction. Whether the is a digital photograph, a scan, or entirely computer generated, the methods still apply. In more recent times, path traced rendering has pushed development of new algorithms and even the use of machine learning to solve the problem.
+Blender has a couple algorithms for denoising.
