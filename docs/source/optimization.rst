@@ -10,4 +10,4 @@ If for example you increase the fidelity of your image by doubling the resolutio
 
 Render Samples
 ----
-The number of samples used is also a key point in optimizing your render. Having too few samples will manifest as a noisy image.
+The number of samples used is also a key point in optimizing your render. Having too few samples will manifest as a noisy image. Like image resolution, increasing the samples will improve visual fidelity but also increase the render times exponentially.
