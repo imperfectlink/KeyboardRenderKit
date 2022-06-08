@@ -8,4 +8,4 @@ Image resolution plays a large part in the amount of time it takes to render an 
 
 Render Samples
 ----
-The number of samples used is also a key point in 
+The number of samples used is also a key point in optimizing your render. Having too few samples will manifest as a noisy image.
