@@ -1,4 +1,4 @@
-Example Workflow Tutorial 2
+Workflow Tutorial 2
 ====
 Now that you know the basics, let's render a keyboard. We'll expand on what we learned in the first tutorial.
 
