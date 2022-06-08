@@ -16,5 +16,4 @@ The KRK2 UI layout is most similar to Blender's Shading layout with the left col
 Getting Help
 ----
 Join our community:
-
 `Discord <https://discord.gg/fVkGTunzT3>`_
