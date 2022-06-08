@@ -11,3 +11,7 @@ If for example you increase the fidelity of your image by doubling the resolutio
 Render Samples
 ----
 The number of samples used is also a key point in optimizing your render. Having too few samples will manifest as a noisy image. Like image resolution, increasing the samples will improve visual fidelity but also increase the render times exponentially.
+
+Denoising
+----
+For as long a time as digital imaging has existed, so has the need for noise reduction. Whether the source image has been a digital photograph, a scan or entirely computer generated, the methods still apply.
