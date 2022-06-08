@@ -14,4 +14,4 @@ The number of samples used is also a key point in optimizing your render. Having
 
 Denoising
 ----
-For as long a time as digital imaging has existed, so has the need for noise reduction. Whether the source image has been a digital photograph, a scan or entirely computer generated, the methods still apply.
+For as long as digital imaging has existed, so has the need for noise reduction. Whether the source image has been a digital photograph, a scan or entirely computer generated, the methods still apply.
