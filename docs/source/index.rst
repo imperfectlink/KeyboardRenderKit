@@ -21,7 +21,9 @@ Blender 3.1 or newer
 
    gettingstarted
    overview
+   assetbrowser
    krkpanel
+   outliner
    
 .. toctree::
    :maxdepth: 2
