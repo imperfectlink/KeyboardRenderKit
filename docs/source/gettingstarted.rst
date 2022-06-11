@@ -1,4 +1,4 @@
-Getting Started
+First Steps
 ====
 
 What's In The Box
