@@ -1,4 +1,4 @@
-Overview
+Interface
 =====
 
 .. image:: img/KRK2UIOverview.jpg
