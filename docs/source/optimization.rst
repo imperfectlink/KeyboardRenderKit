@@ -19,7 +19,7 @@ Blender has a couple algorithms for denoising so we'll focus on those.
 
 Optix
 ----
-This is the machine learning denoise algorithm from Nvidia. It runs on Nvidia graphics cards from the RTX 20** series onward. As a result of using dedicated tensor cores it is very fast with the caveat of being exclusive to Nvidia users. More information is available here: https://developer.nvidia.com/optix-denoiser
+This is a machine learning denoise algorithm from Nvidia. It runs on Nvidia graphics cards from the RTX 20** series onward. As a result of using dedicated tensor cores it is very fast with the caveat of being exclusive to Nvidia users. More information is available here: https://developer.nvidia.com/optix-denoiser
 
 Open Image Denoise
 ----
