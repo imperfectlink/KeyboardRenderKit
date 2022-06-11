@@ -1,4 +1,4 @@
-Workflow Tutorial 1
+Your First Kit Render
 ====
 
 The first thing you'll notice when you get started is that there are no keycaps. Instead there are many planes in the viewport. These are placeholders that can be replaced with keycaps.
