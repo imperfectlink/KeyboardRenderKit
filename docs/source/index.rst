@@ -20,7 +20,7 @@ Blender 3.1 or newer
    :caption: Getting Started
 
    gettingstarted
-   overview
+   interface
    assetbrowser
    krkpanel
    outliner
