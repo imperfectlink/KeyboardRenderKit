@@ -1,8 +1,7 @@
 KRK Panel
 ====
-The KRK panel is separated into four sections: Relink, Data, Color and Properties. The last two are only visible when the relevant properties are available.
-
 .. image:: img/krkpanel.jpg
+The KRK panel is separated into four sections: Relink, Data, Color and Properties. The last two are only visible when the relevant properties are available.
 
 Relink
 ----
