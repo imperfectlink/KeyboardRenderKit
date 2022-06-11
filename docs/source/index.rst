@@ -45,5 +45,6 @@ Blender 3.1 or newer
    :hidden:
    :caption: Logs
    
+   profiles
    boards
    releases
