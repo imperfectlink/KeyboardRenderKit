@@ -1,4 +1,4 @@
-Workflow Tutorial 2
+Your First Board Render
 ====
 Now that you know the basics, let's render a keyboard. We'll expand on what we learned in the first tutorial.
 
