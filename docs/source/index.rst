@@ -2,7 +2,7 @@
 Welcome to Keyboard Render Kit documentation!
 ===================================
 
-.. image:: img/PolyclearKeyboard.jpg
+.. image:: img/PolyclearPhoenix45WKL.jpg
 
 Welcome to Keyboard Render Kit 2 and thank you for your support! 
 
