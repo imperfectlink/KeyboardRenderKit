@@ -32,6 +32,9 @@ You can change the size of a keycap by typing the four character unit size into 
 
 Key
 ----
+
+.. image:: img/Releg.jpg
+
 Type the keycap name into the field to change keycaps over to a different keycap. This is handy for changing to a relegendable (Releg), a blank keycap (Blank) or windowed (*_WIN).
 
 Homing
