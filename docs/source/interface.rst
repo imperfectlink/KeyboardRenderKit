@@ -6,7 +6,7 @@ Interface
 The KRK2 UI layout is most similar to Blender's Shading layout with the left column changed from file browser and image editor switched to asset browser and UV editor with an added KRK tab in the sidebar.
 
 Asset Browser
-~~~~
+----
 .. image:: img/UI_Asset.png
 
 The Asset Browser is home to many useful materials that are categorized by type and manufacturer.
