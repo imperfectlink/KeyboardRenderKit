@@ -12,6 +12,7 @@ Relink is an object data manager designed to quickly swap between keycap profile
 Profile
 ----
 .. image:: /img/KRK2ProfileSwitch.gif
+
 Available profiles and their prefixes are listed in the Profile collection in the outliner while rows and other options you will develop an intuition for. Type the option into the relevant field (case sensitive) with the checkbox enabled and press Set to set the option.
 
 Row
