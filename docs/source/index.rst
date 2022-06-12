@@ -25,6 +25,7 @@ Blender 3.1 or newer
    assetbrowser
    materials
    outliner
+   properties
    
 .. toctree::
    :maxdepth: 2
