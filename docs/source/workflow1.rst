@@ -27,6 +27,8 @@ D: Front legend color (not applied)
 
 E: Legend masks
 
+.. image:: img/Palettes.gif
+
 Test out the sliders on a keycap and flip over to custom to set your own custom colors. Once you have something you like, you can set it to all of the other keycaps by hitting the Set button in the Color section with that keycap selected last.
 
 Keycap colors are now able to be stored on the object rather than just is the material. You can still use the traditional workflow if you prefer and remove the palettes from the material.
