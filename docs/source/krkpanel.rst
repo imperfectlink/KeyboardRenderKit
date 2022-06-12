@@ -25,6 +25,9 @@ Due to the fact that different manufacturers and keycap profiles use different r
 
 Size
 ----
+
+.. image:: img/KRK2ShiftSize.gif
+
 You can change the size of a keycap by typing the four character unit size into the field. If the destination geometry is available, it will change to the desired size.
 
 Key
