@@ -1,5 +1,5 @@
 
-Welcome to Keyboard Render Kit documentation!
+Welcome to Keyboard Render Kit!
 ===================================
 
 .. image:: img/PolyclearPhoenix45WKL.jpg
