@@ -27,7 +27,7 @@ D: Front legend color (not applied)
 
 E: Legend masks
 
-.. image:: img/Palettes.png
+.. image:: img/Palettes.PNG
 
 Test out the sliders on a keycap and flip over to custom to set your own custom colors. Once you have something you like, you can set it to all of the other keycaps by hitting the Set button in the Color section with that keycap selected last.
 
