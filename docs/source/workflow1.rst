@@ -3,6 +3,8 @@ Your First Kit Render
 
 The first thing you'll notice when you get started is that there are no keycaps. Instead there are many planes in the viewport. These are placeholders that can be replaced with keycaps.
 
+.. image:: img/Placeholders.PNG
+
 Select the placeholders by dragging a box selection and then press the Set button in the Relink section of the KRK panel. The relink process ignores all but the keycap objects and you should now have Cherry profile keycaps. Relink will also ignore keycaps that don't have destination object data. Profile prefixes can be found in the Profile collection.
 
 .. image:: img/setcherry.gif
@@ -29,7 +31,7 @@ E: Legend masks
 
 .. image:: img/Palettes.PNG
 
-Test out the sliders on a keycap and flip over to custom to set your own custom colors. Once you have something you like, you can set it to all of the other keycaps by hitting the Set button in the Color section with that keycap selected last.
+Test out the sliders on a keycap and flip over to custom to set your own custom colors. Once you have something you like, you can set it to all of the other selected keycaps by hitting the Set button in the Color section with that keycap selected last.
 
 .. image:: img/SetColor.gif
 
