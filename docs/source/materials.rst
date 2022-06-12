@@ -1,4 +1,4 @@
-Asset Browser
+Materials
 ====
 Materials
 ----
