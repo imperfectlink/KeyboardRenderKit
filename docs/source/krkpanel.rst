@@ -5,15 +5,39 @@ The KRK panel is separated into four sections: Relink, Data, Color and Propertie
 
 Relink
 ~~~~
-
 Relink is an object data manager designed to quickly swap between keycap profiles, rows, sizes, keys and homing options. Any option that has the checkbox enabled will be taken into account when you press the Set button.
-Available profiles and their prefixes are listed in the Profile collection in the outliner while rows and other options you will develop and intuition for. Type the option into the relevant field (case sensitive) with the checkbox enabled and press Set to set the option.
+
+Profile
+----
+Available profiles and their prefixes are listed in the Profile collection in the outliner while rows and other options you will develop an intuition for. Type the option into the relevant field (case sensitive) with the checkbox enabled and press Set to set the option.
+
+Row
+----
+Due to the fact that different manufacturers and keycap profiles use different row numbering systems, KRK introduces yet another based on the actual position on the keyboard starting from the rear.
+
+Size
+----
+You can change the size of a keycap by typing the four character unit size into the field. If the destination geometry is available, it will change to the desired size.
+
+Key
+----
+Type the keycap name into the field to change keycaps over to a different keycap. This is handy for changing to a relegendable (Releg), a blank keycap (Blank) or windowed (*_WIN).
+
+Homing
+----
+You can change the type of homing key between bar/nub/scoop by using this dropdown and clicking Set.
+
+Link Material
+----
 Link Material is an option that allows you to carry over the current applied material to the destination object data. You may want to have this on or off depending on what the desired outcome is. For example, if you were swapping over to the placeholder profile (PLA) you will want the Link Material option turned off so the Capsmat isn't carried over to the placeholders.
+
+Copy Settings
+----
 To the right side of the Set button is the Copy Settings button That helps you copy the object data name into the object data dropdown to aid in searching for a particular key.
-The following sections will only display options for the active (highlighted) object.
 
 Data
 ~~~~
+The following sections will only display options for the active (highlighted) object.
 
 Data mirrors the object data and material assignment sections from the properties panel to make them more convenient to access.
 The Copy button here links the material from the active keycap object to all of the other selected keycaps while ingnoring non-keycap objects.
