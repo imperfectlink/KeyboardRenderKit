@@ -18,13 +18,9 @@ The palette system is designed to facilitate color exploration. You can start of
 The palettes are general purpose node groups but by default they are set to:
 
 A: Cap color
-
 B: Legend color
-
 C: Sublegend color (not applied)
-
 D: Front legend color (not applied)
-
 E: Legend masks
 
 .. image:: img/Palettes.PNG
