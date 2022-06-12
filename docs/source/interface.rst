@@ -7,10 +7,16 @@ The KRK2 UI layout is most similar to Blender's Shading layout with the left col
 
 Asset Browser
 ----
+
+..img/UI_Asset.png
+
 The Asset Browser is home to many useful materials that are categorized by type and manufacturer.
 
 UV Editor
 ----
+
+..img/UI_UV.png
+
 This panel can be used as an image viewer and also show you the coordinates of your legend on the keycap.
 
 3d Viewport
