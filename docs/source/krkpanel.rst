@@ -18,6 +18,9 @@ Available profiles and their prefixes are listed in the Profile collection in th
 
 Row
 ----
+
+.. image:: img/KRKRows.jpg
+
 Due to the fact that different manufacturers and keycap profiles use different row numbering systems, KRK introduces yet another based on the actual position on the keyboard starting from the rear.
 
 Size
