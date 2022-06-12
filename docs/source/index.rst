@@ -21,8 +21,9 @@ Blender 3.1 or newer
 
    gettingstarted
    interface
-   assetbrowser
    krkpanel
+   assetbrowser
+   materials
    outliner
    
 .. toctree::
