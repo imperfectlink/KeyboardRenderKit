@@ -2,7 +2,7 @@ KRK Panel
 ====
 .. image:: img/krkpanel.jpg
 The KRK panel is separated into four sections: Relink, Data, Color and Properties. The last two are only visible when the relevant properties are available.
-
+|
 Relink
 ~~~~
 Relink is an object data manager designed to quickly swap between keycap profiles, rows, sizes, keys and homing options. Any option that has the checkbox enabled will be taken into account when you press the Set button.
