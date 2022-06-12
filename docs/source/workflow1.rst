@@ -67,5 +67,7 @@ Click on Render>Render Image or press F12 to render your first image.
 
 You've just completed example workflow tutorial 1.
 
+|
+
    Bonus points:
    Change the camera to Camera_Kit_Tilted in the scene properties.
