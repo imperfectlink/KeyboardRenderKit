@@ -27,6 +27,7 @@ Blender 3.1 or newer
    interface
    krkpanel
    assetbrowser
+   uveditor
    materials
    outliner
    properties
