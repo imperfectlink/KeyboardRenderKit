@@ -15,9 +15,6 @@ Requirement
 Blender 3.1 or newer
 
 
-
-
-
 .. toctree::
    :maxdepth: 2
    :hidden:
