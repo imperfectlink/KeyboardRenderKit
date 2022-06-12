@@ -1,7 +1,7 @@
 Interface
 =====
 
-.. image:: img/KRK2UIOverview.jpg
+.. image:: img/UIOverview.PNG
 
 The KRK2 UI layout is most similar to Blender's Shading layout with the left column changed from file browser and image editor switched to asset browser and UV editor with an added KRK tab in the sidebar.
 
