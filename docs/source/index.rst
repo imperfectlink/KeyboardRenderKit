@@ -13,6 +13,7 @@ KRK2 builds on the object data swapping workflow of KRK1 while making everything
 Requirement
 ~~~~
 Blender 3.1 or newer
+
 Blender Cycles capable machine
 
 
