@@ -39,6 +39,9 @@ Type the keycap name into the field to change keycaps over to a different keycap
 
 Homing
 ----
+
+.. image:: img/KRK2Homing.gif
+
 You can change the type of homing key between bar/nub/scoop by using this dropdown and clicking Set.
 
 Link Material
