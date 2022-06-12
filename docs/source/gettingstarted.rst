@@ -23,4 +23,5 @@ Join our community:
 `Discord <https://discord.gg/fVkGTunzT3>`_
 
 `Blender Manual <https://docs.blender.org/manual/en/latest/index.html>`_
+
 |
