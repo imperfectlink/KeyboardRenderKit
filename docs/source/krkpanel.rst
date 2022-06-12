@@ -18,18 +18,30 @@ Available profiles and their prefixes are listed in the Profile collection in th
 
 Row
 ----
+
+.. image:: img/KRKRows.jpg
+
 Due to the fact that different manufacturers and keycap profiles use different row numbering systems, KRK introduces yet another based on the actual position on the keyboard starting from the rear.
 
 Size
 ----
+
+.. image:: img/KRK2ShiftSize.gif
+
 You can change the size of a keycap by typing the four character unit size into the field. If the destination geometry is available, it will change to the desired size.
 
 Key
 ----
+
+.. image:: img/Releg.jpg
+
 Type the keycap name into the field to change keycaps over to a different keycap. This is handy for changing to a relegendable (Releg), a blank keycap (Blank) or windowed (*_WIN).
 
 Homing
 ----
+
+.. image:: img/KRK2Homing.gif
+
 You can change the type of homing key between bar/nub/scoop by using this dropdown and clicking Set.
 
 Link Material
@@ -38,6 +50,9 @@ Link Material is an option that allows you to carry over the current applied mat
 
 Copy Settings
 ----
+
+.. image:: img/CopySettings.jpg
+
 To the right side of the Set button is the Copy Settings button That helps you copy the object data name into the object data dropdown to aid in searching for a particular key.
 
 |

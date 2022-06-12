@@ -14,6 +14,8 @@ Requirement
 ~~~~
 Blender 3.1 or newer
 
+Blender Cycles capable machine
+
 
 .. toctree::
    :maxdepth: 2
