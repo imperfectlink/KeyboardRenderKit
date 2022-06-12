@@ -31,6 +31,8 @@ E: Legend masks
 
 Test out the sliders on a keycap and flip over to custom to set your own custom colors. Once you have something you like, you can set it to all of the other keycaps by hitting the Set button in the Color section with that keycap selected last.
 
+.. image:: img/SetColor.gif
+
 Keycap colors are now able to be stored on the object rather than just is the material. You can still use the traditional workflow if you prefer and remove the palettes from the material.
 
 Use the slider for Palette E to change the legend of a modifier key between Text, Icon or Text+Icon. 
