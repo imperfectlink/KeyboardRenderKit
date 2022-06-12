@@ -57,11 +57,15 @@ Add a floor by turning on the visibility options for FloorLightGrey in the Outli
 
 .. image:: img/floorvis.gif
 
+|
+
 Click on Render>Render Image or press F12 to render your first image.
 
 .. image:: img/w1render.jpg
 
+|
+
 You've just completed example workflow tutorial 1.
 
-Bonus points:
-Change the camera to Camera_Kit_Tilted in the scene properties.
+   Bonus points:
+   Change the camera to Camera_Kit_Tilted in the scene properties.
