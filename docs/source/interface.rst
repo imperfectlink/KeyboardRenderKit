@@ -7,7 +7,6 @@ The KRK2 UI layout is most similar to Blender's Shading layout with the left col
 
 Asset Browser
 ----
-
 .. image:: img/UI_Asset.png
 
 The Asset Browser is home to many useful materials that are categorized by type and manufacturer.
