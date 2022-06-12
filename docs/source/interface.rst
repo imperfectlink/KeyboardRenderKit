@@ -39,4 +39,4 @@ Properties
 ----
 .. image:: img/UI_Props.png
 
-Most other properties live here in one of the various tabs.
+Most other properties live here in one of the various tabs. 
