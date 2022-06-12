@@ -13,7 +13,7 @@ Select the placeholders by dragging a box selection and then press the Set butto
 
 |
 
-Drag the Capsmat from the Asset Browser onto one of the keycaps. With that keycap as the active object (highlighted), you can link the material to the other keycaps with control+L then material or just press the Copy button in the Data section of the KRK panel.
+Drag the Capsmat from the Asset Browser onto one of the keycaps. With that keycap as the active object (highlighted), you can link the material to the other keycaps by presssing the Copy button in the Data section of the KRK panel. This does the same thing as Ctrl+L then M (link material) but it ignores non-keycap objects.
 
 .. image:: img/copymat.gif
 
@@ -71,3 +71,5 @@ You've just completed example workflow tutorial 1.
 
    Bonus points:
    Change the camera to Camera_Kit_Tilted in the scene properties.
+   
+|
