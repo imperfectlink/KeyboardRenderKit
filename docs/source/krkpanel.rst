@@ -50,6 +50,9 @@ Link Material is an option that allows you to carry over the current applied mat
 
 Copy Settings
 ----
+
+.. image:: img/CopySettings.jpg
+
 To the right side of the Set button is the Copy Settings button That helps you copy the object data name into the object data dropdown to aid in searching for a particular key.
 
 |
