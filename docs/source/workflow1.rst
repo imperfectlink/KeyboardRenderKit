@@ -71,3 +71,5 @@ You've just completed example workflow tutorial 1.
 
    Bonus points:
    Change the camera to Camera_Kit_Tilted in the scene properties.
+   
+|
