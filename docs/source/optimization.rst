@@ -8,6 +8,10 @@ Resolution
 ~~~~
 Image resolution plays a large part in the amount of time it takes to render an image. Having too low a resolution will manifest as a "pixelated" image. Diagonal lines will appear jagged and fine detail may lack the desired definition.
 
+.. image:: img/ResLow.png
+
+.. image:: img/ResHi.png
+
 If for example you increase the fidelity of your image by doubling the resolution from 2k to 4k by setting the percent slider to 200%, your computer now has to process four times the number of pixels. This can lead to much crisper images at the cost of much greater render times.
 
 |
@@ -15,6 +19,10 @@ If for example you increase the fidelity of your image by doubling the resolutio
 Render Samples
 ~~~~
 The number of samples used is also a key point in optimizing your render. Having too few samples will manifest as a noisy image. Like image resolution, increasing the samples will improve visual fidelity but also increase the render times exponentially.
+
+.. image:: img/Samples16.png
+
+.. image:: img/Samples1600.png
 
 |
 
