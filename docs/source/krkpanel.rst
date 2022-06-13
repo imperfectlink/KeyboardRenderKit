@@ -76,6 +76,8 @@ Easily search through object data to replace the active object data with another
 
 The Copy button here links the material from the active keycap object to all of the other selected keycaps while ingnoring non-keycap objects.
 
+.. image:: img/MatCopy.gif
+
 |
 
 Color
