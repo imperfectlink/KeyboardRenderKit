@@ -39,9 +39,13 @@ Let's setup a scene.
 Delve into the Scene collection into Lights, turn off the visibility options for KitLightingHigh and turn on SoftBoxStudio.
 Turn on FloorWood6 in the Floors collection.
 
+.. image:: img/LightsFloor6.jpg
+
 |
 
 In Scene Properties, set the camera to Camera_Board2.
+
+.. image:: img/SetCamera.jpg
 
 |
 
