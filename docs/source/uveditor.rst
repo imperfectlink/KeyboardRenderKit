@@ -4,4 +4,9 @@ The UV editor is a combination image viewer and UV coordinate editor. This will 
 
 .. image:: img/UVs.jpg
 
+|
+
 For further information on UV coordinates in Blender, `read the Blender manual page on UVs. <https://docs.blender.org/manual/en/latest/editors/uv/introduction.html#uvs-explained>`_
+
+
+|
