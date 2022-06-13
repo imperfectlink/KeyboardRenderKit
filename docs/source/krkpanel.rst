@@ -84,7 +84,15 @@ Color
 ~~~~
 
 Color is a color and palette management system to help you control the color aspects of your Capsmat. It will only display when there are color properties available. 
-If you have a keycap selected that does not hold color properties, the Setup button will be available to apply all the the necessary properties to the keycap object. The Custom/Palette switcher allows you to switch between the custom color and palette workflows. Colors A-E and Palette sliders A-E allow you to control those aspects of the Capsmat on a per object basis through the palette node groups. Choose your options and press Set to propagate them to all of the selected keycap objects or press the individual copy buttons to limit it to one option at a time. Copy and Paste buttons are at the bottom to create and recall an index of options for all of the selected objects. 
+If you have a keycap selected that does not hold color properties, the Setup button will be available to apply all the the necessary properties to the keycap object.
+
+.. image:: img/ColorSetup.jpg
+
+|
+
+The Custom/Palette switcher allows you to switch between the custom color and palette workflows. Colors A-E and Palette sliders A-E allow you to control those aspects of the Capsmat on a per object basis through the palette node groups. Choose your options and press Set to propagate them to all of the selected keycap objects or press the individual copy buttons to limit it to one option at a time. Copy and Paste buttons are at the bottom to create and recall an index of options for all of the selected objects.
+
+.. image:: img/ColorSetPaste.gif
 
 |
 
@@ -92,3 +100,9 @@ Properties
 ~~~~
 
 Properties is also only visible when custom properties are available. For the USB cables, it displays the cable options such as braid/techflex and heatshrink color for the heads. If the deskmat is selected, it will display the dimension and edging options instead.
+
+.. image:: img/KRK2PanelProps.gif
+
+|
+
+
