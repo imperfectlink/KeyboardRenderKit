@@ -101,7 +101,7 @@ Properties
 
 Properties is also only visible when custom properties are available. For the USB cables, it displays the cable options such as braid/techflex and heatshrink color for the heads. If the deskmat is selected, it will display the dimension and edging options instead.
 
-.. image:: /img/KRK2PanelProps.gif
+.. image:: img/KRK2PanelProps.gif
 
 |
 
