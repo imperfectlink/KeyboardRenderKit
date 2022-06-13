@@ -19,6 +19,8 @@ Now click on Copy in the Color section of the KRK panel. This stores the color i
 
 Now hide the Kits collection using the visibility options in the Outliner.
 
+.. image:: img/TurnOffKits.gif
+
 |
 
 Expand the dropdown for the boards collection and expand the 60s collection. Turn on visibility for the Dalco 959 Mini WKL.
