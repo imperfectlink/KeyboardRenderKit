@@ -31,7 +31,7 @@ This is where you'll be editing your kits, layouts, lighting, camera angles etce
 
 |
 
-Material Editor
+Shader Editor
 ~~~~
 .. image:: img/UI_Mats.png
 
