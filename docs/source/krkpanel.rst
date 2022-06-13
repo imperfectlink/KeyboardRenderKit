@@ -69,6 +69,7 @@ Data mirrors the object data and material assignment sections from the propertie
 |
 
 Easily search through object data to replace the active object data with another. Eg. duplicate or instance a keycap and make the copy into a switch or stabilizer.
+
 .. image:: img/ObjectDataSwitch.gif
 
 |
