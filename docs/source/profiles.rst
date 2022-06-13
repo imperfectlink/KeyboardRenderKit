@@ -31,3 +31,11 @@ Forked from KRK1 OEM model.
 SA
 ~~~~
 Forked from KRK1 SA model. Use subdivision modifier to smooth out sides.
+
+PLA
+~~~~
+Placeholder profile. 
+
+KRK
+~~~~
+KRK1 keycap models including switch UI. Must be imported. 
