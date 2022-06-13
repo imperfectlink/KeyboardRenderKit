@@ -1,2 +1,2 @@
-Material Editor
+Shader Editor
 ====
