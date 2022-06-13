@@ -2,11 +2,11 @@ Profiles
 ====
 CHE
 ~~~~
-Remodeled cherry profile based on Endeavour. Use -2 extension for undersides. Includes front legend support.
+Remodeled Cherry profile based on Endeavour. Use -2 extension for undersides. Use Cherry legend template. Includes front legend support.
 
 DCS
 ~~~~
-Remodeled DCS profile based on Fooblitzky. Use -2 extension for undersides. Includes front legend support.
+Remodeled DCS profile based on Fooblitzky. Use -2 extension for undersides. Use DCS legend template. Includes front legend support.
 
 DSA
 ~~~~
