@@ -24,12 +24,11 @@ Now hide the Kits collection using the visibility options in the Outliner.
 |
 
 Expand the dropdown for the boards collection and expand the 60s collection. Turn on visibility for the Dalco 959 Mini WKL.
-Select the placeholders on the 959 Mini and press Set in the Relink section of the KRK panel.
+Select one of the placeholders on the 959 Mini and then box select over all of them and press Set in the Relink section of the KRK panel.
 
 .. image:: img/BoardPopulate.gif
 
-Shift click one of the keycaps and to set it to the active object and click Setup in the Color section.
-Now press the Paste button in the Color section. This recalls the colours that were stored from the kit.
+Click Setup in the Color section and then press the Paste button in the Color section. This recalls the colours that were stored from the kit.
 
 |
 
