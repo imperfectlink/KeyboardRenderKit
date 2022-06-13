@@ -11,5 +11,19 @@ Palettes
 
 |
 
+Utilities
+~~~~
+
+Minor Wear
+---- 
+
+Pitting
+----
+
+Shimmer
+----
+
+|
+
 World
 ~~~~
