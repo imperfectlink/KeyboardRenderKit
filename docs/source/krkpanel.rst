@@ -56,8 +56,11 @@ Copy Settings
 To the right side of the Set button is the Copy Settings button That helps you copy the object data name into the object data dropdown to aid in searching for a particular key.
 
 |
+
    The following sections will only display options for the active (highlighted) object.
+
 |
+
 Data
 ~~~~
 
