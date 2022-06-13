@@ -90,7 +90,9 @@ If you have a keycap selected that does not hold color properties, the Setup but
 
 |
 
-The Custom/Palette switcher allows you to switch between the custom color and palette workflows. Colors A-E and Palette sliders A-E allow you to control those aspects of the Capsmat on a per object basis through the palette node groups. Choose your options and press Set to propagate them to all of the selected keycap objects or press the individual copy buttons to limit it to one option at a time. Copy and Paste buttons are at the bottom to create and recall an index of options for all of the selected objects. 
+The Custom/Palette switcher allows you to switch between the custom color and palette workflows. Colors A-E and Palette sliders A-E allow you to control those aspects of the Capsmat on a per object basis through the palette node groups. Choose your options and press Set to propagate them to all of the selected keycap objects or press the individual copy buttons to limit it to one option at a time. Copy and Paste buttons are at the bottom to create and recall an index of options for all of the selected objects.
+
+.. image:: img/ColorSetPaste.gif
 
 |
 
