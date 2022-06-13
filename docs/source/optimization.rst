@@ -55,3 +55,6 @@ Both of these algorithms can be used in the viewport and final render by enablin
 |
 
 For more information on denoising, visit the `Blender manual page on denoising. <https://docs.blender.org/manual/en/latest/render/cycles/optimizations/reducing_noise.html>`_
+
+
+|
