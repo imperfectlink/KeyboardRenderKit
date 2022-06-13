@@ -30,3 +30,7 @@ This is a machine learning denoise algorithm from Nvidia. It runs on Nvidia grap
 Open Image Denoise
 ----
 This is another machine learning denoise algorithm, this time from intel. As the name suggests, it is open and will run on a variety of cpu models and architectures. It is not as fast as using Optix but it is very good at what it does and has the edge in scenes that include some form of transparency. For example in rendering polycarbonate keyboards. More information about Open Image Denoise is available here: https://www.openimagedenoise.org/
+
+Application
+----
+Both of these algorithms can be used in the viewport and final render by enabling them in the options. However, OID is faster when used in the compositor. In KRK the compositor set up is already created and all that is left to do is to enable nodes using the checkbox on the top left of the compositor panel. 
