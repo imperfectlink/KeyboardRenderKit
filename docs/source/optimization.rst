@@ -8,7 +8,7 @@ Resolution
 ~~~~
 Image resolution plays a large part in the amount of time it takes to render an image. Having too low a resolution will manifest as a "pixelated" image. Diagonal lines will appear jagged and fine detail may lack the desired definition.
 
-.. image:: img/ResLow.ong
+.. image:: img/ResLow.png
 
 .. image:: img/ResHi.png
 
