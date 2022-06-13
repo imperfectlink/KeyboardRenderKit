@@ -13,7 +13,7 @@ Drag the Capsmat from the asset browser onto one of the keycaps. Shift click the
 
 Now click on Copy in the Color section of the KRK panel. This stores the color information to be recalled later.
 
-.. image:: img/CopyColors.jpg
+.. image:: img/CopyColors.JPG
 
 |
 
