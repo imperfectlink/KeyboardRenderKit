@@ -5,11 +5,9 @@ Now that you know the basics, let's render a keyboard. We'll expand on what we l
 |
 
 In a fresh KRK2 file, press A in the viewport to select all and then press the Set button in the Relink section of the KRK panel to set them to Cherry profile.
-Drag the Capsmat from the asset browser onto one of the keycaps.
+Drag the Capsmat from the asset browser onto one of the keycaps. Shift click the same keycap to make it the active object and press the Copy button in the Data section of the KRK panel.
 
-|
-
-Shift click the same keycap to make it the active object and press the Copy button in the Data section of the KRK panel.
+.. image:: img/
 
 |
 
