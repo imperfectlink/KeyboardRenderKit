@@ -57,12 +57,26 @@ To the right side of the Set button is the Copy Settings button That helps you c
 
 |
 
+   The following sections will only display options for the active (highlighted) object.
+
+|
+
 Data
 ~~~~
-The following sections will only display options for the active (highlighted) object.
 
 Data mirrors the object data and material assignment sections from the properties panel to make them more convenient to access.
+
+|
+
+Easily search through object data to replace the active object data with another. Eg. duplicate or instance a keycap and make the copy into a switch or stabilizer.
+
+.. image:: img/ObjectDataSwitch.gif
+
+|
+
 The Copy button here links the material from the active keycap object to all of the other selected keycaps while ingnoring non-keycap objects.
+
+.. image:: img/MatCopy.gif
 
 |
 
