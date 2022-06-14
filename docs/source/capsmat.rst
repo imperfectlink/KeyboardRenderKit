@@ -122,6 +122,8 @@ The Palette Workflow
 ~~~~
 
 KRK2 introduces a new workflow to help with color exploration and design. As you've seen by now, the KRK panel lets you you control the color of the keycaps on an individual basis. You can start off with a custom color per keycap and then drag those colors into a palette to define your colorway.
-The 
+The palette node groups are the other component to this workflow.
+
+.. image:: img/Palettes.jpg
 
 |
