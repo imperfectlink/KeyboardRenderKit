@@ -2,6 +2,8 @@ Outliner
 ====
 The outliner holds all of the items in your scene organized into collections.
 
+.. image:: img/Outliner.jpg
+
 Kits
 ~~~~
 The Kits collection is turned on by default
