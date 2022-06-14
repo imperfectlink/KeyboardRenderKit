@@ -2,6 +2,8 @@ Shader Editor
 ====
 After you select an object, the material that is applied to it will be available to edit in the the material editor. This is only for the active or highlighted object. 
 
+.. image:: img/SelectMat.gif
+
 The dropdown will allow you to select and apply another material to the object.
 
 If you would like to duplicate a material so that it will not affect the material on other objects, you can click the number (which signifies how many objects carry that material) and a duplicate will be made. You can also click the add new material button to the same effect.
