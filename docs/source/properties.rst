@@ -76,12 +76,16 @@ Don't skip over the Object Data dropdown as it allows you to turn any object int
 UV Maps
 ----
 If you need to access an object's UV map, this is where you'll find it.
+
 |
 
 Material Properties
 ~~~~
 Material Index
 ----
+
+.. image:: img/MatIndex.jpg.jpg
+
 Objects can have more than one material attached to them. Eg. the windowed and relegendable keycaps have 2 material slots for the keycap material and the polycarbonate.
 
 Material Link
