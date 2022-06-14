@@ -66,6 +66,9 @@ All of the keycap profiles live here.
 
 UV Setup
 ----
+
+.. image:: img/UVSetup.jpg
+
 This collection contains all that is needed to do UV projections for the keycaps.
 
 Parts
