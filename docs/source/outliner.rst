@@ -11,7 +11,7 @@ Boards
 
 .. image:: img/BoardCollection.jpg
 
-Boards are organized by size and then alphabetical. Use the triangle to dig into the subcollections and then into the board's layout options.
+Boards are organized by size and then alphabetical. Use the triangle to dig into the subcollections and then into the board's layout options such as stepped capslock or Tsangan bottom row.
 
 Layouts
 ~~~~
