@@ -33,6 +33,9 @@ If you are rendering transparent background images, you need to turn on Film>Tra
 
 Color Management
 ----
+
+.. image:: img/ColorSF.png
+
 This is an important section. Blender's default setting for color management is Filmic which I have left here with no look applied. Some users prefer to set this to Standard because it feels as though it is easier to color match. I generally prefer Filmic because of the light rolloff and set to a Medium High Contrast to get a very similar feel to Standard but with better shading. If you plan to export to EXR, the choice you make doesn't matter. It will just export the full buffer.
 
 |
