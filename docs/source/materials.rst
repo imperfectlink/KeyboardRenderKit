@@ -9,7 +9,7 @@ Settings
 ----
 Cap
 ^^^^
-This is the base color of the keycap.
+This is the base color of the keycap which can be controlled by the color field of by using the socket with a palette.
 
 Legend
 ^^^^
