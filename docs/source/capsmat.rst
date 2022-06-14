@@ -126,4 +126,6 @@ The palette node groups are the other component to this workflow.
 
 .. image:: img/Palettes.jpg
 
+The palettes range from A-E as well as a standalone palette for driving the from the material editor. They have eight slots for colors while Palette E has four for color and four more for alphas.
+
 |
