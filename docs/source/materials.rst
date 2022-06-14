@@ -67,7 +67,7 @@ This is the same as Legend Weight but for front legends.
 
 Roughness
 ^^^^
-This is the overall roughness or glossiness for the keycap material.
+This is the overall roughness or glossiness for the keycap material. This will vary depending on what type of plastic or finish you are aiming for.
 
 Bump Scale
 ^^^^
