@@ -70,7 +70,7 @@ Roughness
 
 .. image:: img/Roughness.jpg
 
-This is the overall roughness or glossiness for the keycap material. This will vary depending on what type of plastic or finish you are aiming for.
+This is the overall roughness or glossiness for the keycap material. This will vary depending on what type of plastic or finish you are aiming for. For example, PBT will generally have a higher roughness than ABS.
 
 Bump Scale
 ^^^^
