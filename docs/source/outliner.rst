@@ -59,6 +59,9 @@ Construction
 
 Profiles
 ----
+
+.. image:: img/ProfilesCollection.jpg
+
 All of the keycap profiles live here.
 
 UV Setup
