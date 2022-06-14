@@ -90,6 +90,9 @@ Objects can have more than one material attached to them. Eg. the windowed and r
 
 Material Link
 ----
+
+.. image:: img/MatObjectData.gif
+
 You can tell Blender whether to use the material attached to the object data or the object on a per object basis.
 
 |
