@@ -30,7 +30,14 @@ Blender Cycles capable machine
    materials
    outliner
    properties
+
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Materials
    
+   capsmat
+
 .. toctree::
    :maxdepth: 4
    :hidden:
