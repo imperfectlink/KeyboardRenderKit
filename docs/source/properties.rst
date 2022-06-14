@@ -21,6 +21,7 @@ Color Management
 Output Properties
 ~~~~
 Resolution
+----
 
 |
 
