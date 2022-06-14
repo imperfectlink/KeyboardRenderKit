@@ -26,6 +26,9 @@ Denoising can be set here. I usually check the denoise on for viewport and set i
 
 Film Transparent
 ----
+
+.. image:: img/FilmTransparent.jpg
+
 If you are rendering transparent background images, you need to turn on Film>Transparent.
 
 Color Management
