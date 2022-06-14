@@ -22,6 +22,16 @@ A white on black image is plugged into this socket to mix between the cap color 
 Sharpen Legend
 ^^^^
 
+.. image:: img/SharpenLegend.gif
+
+This is used to sharpen the edge of the legend to appear as a doubleshot legend would. This is set to full by default but you can slide it to zero to simulate more of a dye sublimated look.
+
+Legend Weight
+^^^^
+
+.. image:: img/LegendWeight.gif
+
+Due to the way the legend sharpening works, you may also wish to offset the weight to bolden the legend.
 
 Masks
 ----
