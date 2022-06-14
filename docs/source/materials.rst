@@ -31,7 +31,7 @@ Legend Weight
 
 .. image:: img/LegendWeight.gif
 
-Due to the way the legend sharpening works, you may also wish to offset the weight to bolden the legend.
+Due to the way the legend sharpening works, you may also wish to offset the weight to bolden the legend. A smaller number means a bolder legend.
 
 Sub
 ^^^^
