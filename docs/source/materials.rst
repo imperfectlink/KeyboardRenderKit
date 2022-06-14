@@ -75,6 +75,9 @@ This is the scale or grain of the bump noise. Think of it the same as grit for s
 
 Top Bump
 ^^^^
+
+.. image:: img/KeycapBump.JPG
+
 This is the intensity of the bump at the top of the keycap.
 
 Side Bump
