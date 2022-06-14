@@ -11,4 +11,8 @@ The asset browser is preloaded with several useful materials categorized by type
 Material Utilities
 ~~~~
 
+.. image:: img/MaterialUtilities.JPG
+
+The material utilities can be dragged into the material editor to add effecs when you are building your own materials.
+
 |
