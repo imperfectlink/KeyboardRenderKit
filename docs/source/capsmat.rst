@@ -114,7 +114,7 @@ KRK comes with templates to make generating these masks simpler.
 
 |
 
-Palettes
-----
+The Palette Workflow
+~~~~
 
 |
