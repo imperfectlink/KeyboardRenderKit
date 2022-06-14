@@ -4,9 +4,17 @@ After you select an object, the material that is applied to it will be available
 
 .. image:: img/SelectMat.gif
 
+|
+
 The dropdown will allow you to select and apply another material to the object.
 
+.. image:: img/MatDropdown.gif
+
+|
+
 If you would like to duplicate a material so that it will not affect the material on other objects, you can click the number (which signifies how many objects carry that material) and a duplicate will be made. You can also click the add new material button to the same effect.
+
+.. image:: img/DupeMat.gif
 
 Image texture nodes require coordinates to know how to use a 2d image on a 3d object. If no coordinates are plugged into the vector input, the active UV will be used.
 
