@@ -7,10 +7,12 @@ Capsmat
 
 Settings
 ----
-
 Cap
 ^^^^
 This is the base color of the keycap.
+Legend
+^^^^
+This is the legend color.
 
 Masks
 ----
