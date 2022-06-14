@@ -51,6 +51,7 @@ Blender Cycles capable machine
    :hidden:
    :caption: Reference
    
+   recipes
    profiles
    boards
    releases
