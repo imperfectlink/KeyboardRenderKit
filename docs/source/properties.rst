@@ -50,6 +50,8 @@ This is where you set the resolution of the output image. This resolution also m
 |
 
    Tip: If you want to set 4k when it is currently at 2k resolution, you can type a 200% in the field instead of 100%.
+   
+.. image:: img/200P.jpg
 
 |
 
