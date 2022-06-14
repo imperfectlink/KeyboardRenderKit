@@ -1,4 +1,4 @@
-Material Editor
+Shader Editor
 ====
 Capsmat
 ~~~~
