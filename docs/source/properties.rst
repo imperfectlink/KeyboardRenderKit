@@ -22,7 +22,7 @@ Default sampling is set to 32 in the viewport and 256 at render time. If you are
 
 Denoise
 ----
-Denoising can be set here. I usually check the denoise on for viewport and set it to automatic. Set the start sample to 2 or more to keep your viewport responsive.
+Denoising can be set here. I usually check the denoise on for viewport and set it to automatic. Set the start sample to 2 or more to keep your viewport responsive. Denoising for final render is also available in the compositor.
 
 Film Transparent
 ----
