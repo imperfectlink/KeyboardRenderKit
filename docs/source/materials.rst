@@ -16,10 +16,18 @@ If you would like to duplicate a material so that it will not affect the materia
 
 .. image:: img/DupeMat.gif
 
+|
+
 Image texture nodes require coordinates to know how to use a 2d image on a 3d object. If no coordinates are plugged into the vector input, the active UV will be used.
 
 Some materials contain muted nodes or grey nodes. They are not considered when rendering. To enable these nodes you can select the node by left clicking on it and press M to unmute.
 
 .. image:: img/UnmuteNode.gif
 
+|
+
 The world material is also accessible from the material editor. In the top left, click on the dropdown that currently says Object and choose World.
+
+.. image:: img/ObjWorld.gif
+
+|
