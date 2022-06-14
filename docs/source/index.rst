@@ -18,7 +18,7 @@ Blender Cycles capable machine
 
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
    :caption: Overview
 
@@ -32,7 +32,7 @@ Blender Cycles capable machine
    properties
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
    :caption: Tutorials
    
@@ -40,14 +40,14 @@ Blender Cycles capable machine
    workflow2
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
    :caption: Further Information
    
    optimization
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 4
    :hidden:
    :caption: Reference
    
