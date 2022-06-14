@@ -71,6 +71,9 @@ This is the overall roughness or glossiness for the keycap material. This will v
 
 Bump Scale
 ^^^^
+
+.. image:: img/BumpScale.jpg
+
 This is the scale or grain of the bump noise. Think of it the same as grit for sandpaper in that a larger number represents a higher density.
 
 Top Bump
