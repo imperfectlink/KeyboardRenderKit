@@ -1,10 +1,10 @@
 Capsmat
-~~~~
+====
 
 .. image:: img/Capsmat.jpg
 
 Settings
-----
+~~~~
 Cap
 ^^^^
 This is the base color of the keycap which can be controlled by the color field of by using the socket with a palette.
@@ -98,15 +98,19 @@ Some doubleshot processes result in a more pronounced seam between the legend an
 |
 
 Masks
-----
+~~~~
 
 .. image:: img/LegendsDemo.jpg
 
-A mask is a white on black image that defines how to mix two colors or elements together. Consider white to be ON and black to be OFF. 
+A mask is a white on black image that defines how to mix two colors or elements together. Consider white to be ON and black to be OFF.
+
+|
 
 .. image:: img/LegendMask.JPG
 
 In the capsmat, masks are used to mix the cap with the legend, the cap with the sublegend and the cap with the front legend. If any of these are not present, it will assume black or off for that portion. 
+
+|
 
 .. image:: img/LegendsTemplate.png
 
@@ -114,7 +118,14 @@ KRK comes with templates to make generating these masks simpler.
 
 |
 
-Palettes
-----
+The Palette Workflow
+~~~~
+
+KRK2 introduces a new workflow to help with color exploration and design. As you've seen by now, the KRK panel lets you you control the color of the keycaps on an individual basis. You can start off with a custom color per keycap and then drag those colors into a palette to define your colorway.
+The palette node groups are the other component to this workflow.
+
+.. image:: img/Palettes.jpg
+
+The palettes range from A-E as well as a standalone palette for driving the from the material editor. They have eight slots for colors while Palette E has four for color and four more for alphas.
 
 |
