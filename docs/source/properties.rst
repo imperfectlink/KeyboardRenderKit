@@ -68,6 +68,9 @@ Object Data Properties
 ~~~~
 Object Data
 ----
+
+.. image:: img/ObjectDataSwitch2.gif
+
 Don't skip over the Object Data dropdown as it allows you to turn any object into any other object by choosing it from the dropdown.
 
 UV Maps
