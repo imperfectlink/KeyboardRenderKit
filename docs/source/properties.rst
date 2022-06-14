@@ -75,6 +75,9 @@ Don't skip over the Object Data dropdown as it allows you to turn any object int
 
 UV Maps
 ----
+
+.. image:: img/UVMaps.jpg
+
 If you need to access an object's UV map, this is where you'll find it.
 
 |
