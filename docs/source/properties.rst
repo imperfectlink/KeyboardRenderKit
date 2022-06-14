@@ -84,7 +84,7 @@ Material Properties
 Material Index
 ----
 
-.. image:: img/MatIndex.jpg.jpg
+.. image:: img/MatIndex.jpg
 
 Objects can have more than one material attached to them. Eg. the windowed and relegendable keycaps have 2 material slots for the keycap material and the polycarbonate.
 
