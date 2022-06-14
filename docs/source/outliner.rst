@@ -39,7 +39,12 @@ Construction
 
 Profiles
 ----
+All of the keycap profiles live here.
+
 UV Setup
 ----
+This collection contains all that is needed to do UV projections for the keycaps.
+
 Parts
 ----
+This collection contains the extra parts that you can object data swap to add elements to your boards.
