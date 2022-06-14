@@ -83,6 +83,9 @@ This is the intensity of the bump at the back, front and sides of the keycap.
 
 Legend Seam
 ^^^^
+
+.. image:: img/LegendSeam.jpg
+
 Some doubleshot processes result in a more pronounced seam between the legend and the keycap.
 
 |
