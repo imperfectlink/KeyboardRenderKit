@@ -13,7 +13,7 @@ This is the base color of the keycap.
 
 Legend
 ^^^^
-This is the legend color.
+This is the legend color. You can choose a color, plug in a palette to control the color or even plug an image into the socket for full color legends.
 
 LegendMask
 ^^^^
