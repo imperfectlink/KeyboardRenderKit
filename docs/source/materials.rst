@@ -2,6 +2,9 @@ Shader Editor
 ====
 Capsmat
 ~~~~
+
+.. image:: img/Capsmat.jpg
+
 Settings
 ----
 Masks
