@@ -20,6 +20,9 @@ Boards are organized by size and then alphabetical. Use the triangle to dig into
 
 Layouts
 ~~~~
+
+.. image:: img/DuplicateLinkedCollection.gif
+
 These are extra layouts that you can use to populate a custom board that you've imported. Right click on the layout and duplicate linked to create a linked collection then move it to your board's collection.
 
 Accessories
