@@ -57,6 +57,9 @@ Scene Properties
 ~~~~
 Active Camera
 ----
+
+.. image:: img/SetActiveCamera.jpg
+
 This is where you set the active camera that Blender will use when you press render.
 
 |
