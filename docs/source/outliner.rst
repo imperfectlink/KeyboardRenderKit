@@ -73,4 +73,7 @@ This collection contains all that is needed to do UV projections for the keycaps
 
 Parts
 ----
+
+.. image:: img/PartsCollection.jpg
+
 This collection contains the extra parts that you can object data swap to add elements to your boards.
