@@ -98,7 +98,7 @@ Some doubleshot processes result in a more pronounced seam between the legend an
 |
 
 Masks
-----
+~~~~
 
 .. image:: img/LegendsDemo.jpg
 
