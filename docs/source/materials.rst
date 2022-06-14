@@ -1,29 +1,11 @@
 Shader Editor
 ====
-Materials
-~~~~
-Metals
-----
-Polycarbonate
-----
+After you select an object, the material that is applied to it will be available to edit in the the material editor. This is only for the active or highlighted object. 
 
-|
+The dropdown will allow you to select and apply another material to the object.
 
-Utilities
-~~~~
+If you would like to duplicate a material so that it will not affect the material on other objects, you can click the number (which signifies how many objects carry that material) and a duplicate will be made. You can also click the add new material button to the same effect.
 
-Minor Wear
----- 
+Some materials contain muted nodes or grey nodes. They are not considered when rendering. To enable these nodes you can select the node by left clicking on it and press M to unmute.
 
-Pitting
-----
-
-Shimmer
-----
-
-|
-
-World
-~~~~
-
-|
+The world material is also accessible from the material editor. In the top left, click on the dropdown that currently says Object and choose World.
