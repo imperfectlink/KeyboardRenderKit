@@ -11,4 +11,6 @@ The asset browser is preloaded with several useful materials categorized by type
 Material Utilities
 ~~~~
 
+.. image:: img/MaterialUtilities.JPG
+
 |
