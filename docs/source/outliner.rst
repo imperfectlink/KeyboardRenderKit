@@ -8,6 +8,9 @@ The Kits collection is turned on by default
 
 Boards
 ~~~~
+
+.. image:: img/BoardCollection.jpg
+
 Boards are organized by size and then alphabetical. Use the triangle to dig into the subcollections and then into the board's layout options.
 
 Layouts
