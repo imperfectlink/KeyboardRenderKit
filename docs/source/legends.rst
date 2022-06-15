@@ -16,23 +16,35 @@ Upon opening the svg file you will see a layers panel on the right side that con
 
 .. image:: img/InkscapeScreen.jpg
 
+|
+
 The template is turned on to help you align your legends and novelties in relation to the touch area of the keycaps. Keep in mind though that the final outcome needs to include a white on black image.
 
 .. image:: img/LegendsDemo.jpg
+
+|
 
 Create a new layer and paste your legends into the new layer. You can nudge the legends around using the cursor keys on your keyboard holding Shift for larger steps and Alt for smaller steps. The template layer is locked by default to prevent erroneous selections.
 
 .. image:: img/InkscapeLayers.jpg
 
+|
+
 If you would like to use the align tool to align to individual keycaps, the template needs to be broken up into parts. You can do this by selecting it and press Path > Break Apart or Ctrl+Shift+K.
 
 .. image:: img/InkscapeAlign.jpg
+
+|
 
 Once you have your legends in place, export with File > Export or Ctrl+Shift+E. Export your WoB image as a png 4096x4096 resolution or 8192x8192. Really the resolution and filetype don't matter as long as it's a square image.
 
 .. image:: img/InkscapeExport.jpg
 
 |
+
+If your novelties or legends are multicolor then turn off the black background and export as an image with transparency. You can use the Alpha channel as the mask and plug the color into the legend color.
+
+.. image:: img/InkscapeFullColor.jpg
 
 Adobe Illustrator
 ~~~~
