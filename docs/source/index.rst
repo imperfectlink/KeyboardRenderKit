@@ -42,6 +42,13 @@ Blender Cycles capable machine
 .. toctree::
    :maxdepth: 4
    :hidden:
+   :caption: Accessories
+   
+   
+
+.. toctree::
+   :maxdepth: 4
+   :hidden:
    :caption: Tutorials
    
    workflow1
