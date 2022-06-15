@@ -37,6 +37,7 @@ Blender Cycles capable machine
    :caption: Materials
    
    capsmat
+   legends
 
 .. toctree::
    :maxdepth: 4
