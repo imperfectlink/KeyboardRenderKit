@@ -14,6 +14,10 @@ Upon opening the svg file you will see a layers panel on the right side that con
 
 .. image:: img/InkscapeScreen.jpg
 
+The template is turned on to help you align your legends and novelties in relation to the touch area of the keycaps. Keep in mind though that the final outcome needs to include a white on black image.
+
+.. image:: img/LegendsDemo.jpg
+
 |
 
 Adobe Illustrator
