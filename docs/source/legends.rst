@@ -26,7 +26,7 @@ If you would like to use the align tool to align to individual keycaps, the temp
 
 .. image:: img/InkscapeAlign.jpg
 
-Once you have your legends in place, export with File > Export or Ctrl+Shift+E.
+Once you have your legends in place, export with File > Export or Ctrl+Shift+E. Export your WoB image as a png 4096x4096 resolution or 8192x8192. Really the resolution and filetype don't matter as long as it's a square image.
 
 .. image:: img/InkscapeExport.jpg
 
