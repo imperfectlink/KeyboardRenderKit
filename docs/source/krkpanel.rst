@@ -49,6 +49,8 @@ Due to the fact that different manufacturers and keycap profiles use different r
 
 Some profiles have an interchangeable first and/or last row.
 
+|
+
 Size
 ----
 
