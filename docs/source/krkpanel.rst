@@ -9,12 +9,16 @@ Relink
 ~~~~
 Relink is an object data manager designed to quickly swap between keycap profiles, rows, sizes, keys and homing options. Any option that has the checkbox enabled will be taken into account when you press the Set button.
 
+|
+
 Profile
 ----
 
 .. image:: img/KRK2ProfileSwitch.gif
 
 Available profiles and their prefixes are listed in the Profile collection in the outliner while rows and other options you will develop an intuition for. Type the option into the relevant field (case sensitive) with the checkbox enabled and press Set to set the option.
+
+|
 
 Row
 ----
@@ -58,12 +62,16 @@ Size
 
 You can change the size of a keycap by typing the four character unit size into the field. If the destination geometry is available, it will change to the desired size.
 
+|
+
 Key
 ----
 
 .. image:: img/Releg.jpg
 
 Type the keycap name into the field to change keycaps over to a different keycap. This is handy for changing to a relegendable (Releg), a blank keycap (Blank) or windowed (*_WIN).
+
+|
 
 Homing
 ----
@@ -72,9 +80,13 @@ Homing
 
 You can change the type of homing key between bar/nub/scoop by using this dropdown and clicking Set.
 
+|
+
 Link Material
 ----
 Link Material is an option that allows you to carry over the current applied material to the destination object data. You may want to have this on or off depending on what the desired outcome is. For example, if you were swapping over to the placeholder profile (PLA) you will want the Link Material option turned off so the Capsmat isn't carried over to the placeholders.
+
+|
 
 Copy Settings
 ----
