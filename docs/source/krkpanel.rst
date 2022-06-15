@@ -26,7 +26,7 @@ Due to the fact that different manufacturers and keycap profiles use different r
 |
 
 +--------------+--------+--------------------+---------+
-| Profile      | First  + Rows               | Last    |
+| Profile      |Optional+ Rows               | Last    |
 +==============+========+====================+=========+
 | KRK          | 0      | 1-2-3-4-5-6 7      | 7       |
 +--------------+--------+--------------------+---------+
