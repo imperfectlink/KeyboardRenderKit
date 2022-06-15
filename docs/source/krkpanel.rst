@@ -9,12 +9,15 @@ Relink
 ~~~~
 Relink is an object data manager designed to quickly swap between keycap profiles, rows, sizes, keys and homing options. Any option that has the checkbox enabled will be taken into account when you press the Set button.
 
+
 Profile
 ----
 
 .. image:: img/KRK2ProfileSwitch.gif
 
 Available profiles and their prefixes are listed in the Profile collection in the outliner while rows and other options you will develop an intuition for. Type the option into the relevant field (case sensitive) with the checkbox enabled and press Set to set the option.
+
+|
 
 Row
 ----
@@ -23,12 +26,42 @@ Row
 
 Due to the fact that different manufacturers and keycap profiles use different row numbering systems, KRK introduces yet another based on the actual position on the keyboard starting from the rear.
 
+|
+
++--------------+--------+------------------+---------+
+| Profile      |Optional| Rows             |Optional |
++==============+========+==================+=========+
+| KRK          | 0      | 1-2-3-4-5-6      | 7       |
++--------------+--------+------------------+---------+
+| Cherry       | 0      | 1-1-2-3-4-4      | 5       |
++--------------+--------+------------------+---------+
+| DCS          | 5      | 1-1-2-3-4-4      |         |
++--------------+--------+------------------+---------+
+| DSA          |        | Uniform          |         |
++--------------+--------+------------------+---------+
+| DSS          |        | 1-1-2-3-4-3      | 4       |
++--------------+--------+------------------+---------+
+| KAM          |        | Uniform          |         |
++--------------+--------+------------------+---------+
+| KAT          | 5      | 4-4-3-2-1-1      |         |
++--------------+--------+------------------+---------+
+| OEM          |        | 1-1-2-3-4-4      |         |
++--------------+--------+------------------+---------+
+| SA           |        | 1-1-2-3-4-3      | 4       |
++--------------+--------+------------------+---------+
+
+Some profiles have an interchangeable first and/or last row.
+
+|
+
 Size
 ----
 
 .. image:: img/KRK2ShiftSize.gif
 
 You can change the size of a keycap by typing the four character unit size into the field. If the destination geometry is available, it will change to the desired size.
+
+|
 
 Key
 ----
@@ -37,6 +70,8 @@ Key
 
 Type the keycap name into the field to change keycaps over to a different keycap. This is handy for changing to a relegendable (Releg), a blank keycap (Blank) or windowed (*_WIN).
 
+|
+
 Homing
 ----
 
@@ -44,9 +79,13 @@ Homing
 
 You can change the type of homing key between bar/nub/scoop by using this dropdown and clicking Set.
 
+|
+
 Link Material
 ----
 Link Material is an option that allows you to carry over the current applied material to the destination object data. You may want to have this on or off depending on what the desired outcome is. For example, if you were swapping over to the placeholder profile (PLA) you will want the Link Material option turned off so the Capsmat isn't carried over to the placeholders.
+
+|
 
 Copy Settings
 ----
