@@ -44,7 +44,7 @@ Due to the fact that different manufacturers and keycap profiles use different r
 +--------------+--------+------------------+---------+
 | OEM          |        | 1-1-2-3-4-4      |         |
 +--------------+--------+------------------+---------+
-| SA           |        | 1-1-2-3-4-3      |         |
+| SA           |        | 1-1-2-3-4-3      | 4       |
 +--------------+--------+------------------+---------+
 
 Some profiles have an interchangeable first and/or last row.
