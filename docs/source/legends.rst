@@ -18,7 +18,7 @@ The template is turned on to help you align your legends and novelties in relati
 
 .. image:: img/LegendsDemo.jpg
 
-Create a new layer and paste your legends into the new layer. You can nudge the legends around using the cursor keys on your keyboard. The template layer is locked by default to prevent erroneous selections.
+Create a new layer and paste your legends into the new layer. You can nudge the legends around using the cursor keys on your keyboard holding Shift for larger steps and Alt for smaller steps. The template layer is locked by default to prevent erroneous selections.
 
 .. image:: img/InkscapeLayers.jpg
 
@@ -26,6 +26,9 @@ If you would like to use the align tool to align to individual keycaps, the temp
 
 .. image:: img/InkscapeAlign.jpg
 
+Once you have your legends in place, export with File > Export or Ctrl+Shift+E.
+
+.. image:: img/InkscapeExport.jpg
 
 |
 
