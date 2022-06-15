@@ -18,6 +18,15 @@ The template is turned on to help you align your legends and novelties in relati
 
 .. image:: img/LegendsDemo.jpg
 
+Create a new layer and paste your legends into the new layer. You can nudge the legends around using the cursor keys on your keyboard. The template layer is locked by default to prevent erroneous selections.
+
+.. image:: img/InkscapeLayers.jpg
+
+If you would like to use the align tool to align to individual keycaps, the template needs to be broken up into parts. You can do this by selecting it and press Path > Break Apart or Ctrl+Shift+K.
+
+.. image:: img/InkscapeAlign.jpg
+
+
 |
 
 Adobe Illustrator
