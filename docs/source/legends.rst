@@ -1,7 +1,9 @@
 Creating Legends
 ====
+
 Inkscape
 ~~~~
+
 The legend files are created in Inkscape which can be downloaded for free here:
 
 `Inkscape <https://inkscape.org/>`_
