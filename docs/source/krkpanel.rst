@@ -23,6 +23,18 @@ Row
 
 Due to the fact that different manufacturers and keycap profiles use different row numbering systems, KRK introduces yet another based on the actual position on the keyboard starting from the rear.
 
+|
+
++-----------------------+----------------------+
+| Cherry                | 0 112344 5           |
++-----------------------+----------------------+
+| DSA                   | Uniform              |
++-----------------------+----------------------+
+| DSS                   | 112343               |
++-----------------------+----------------------+
+| KAM                   | Uniform              |
++-----------------------+----------------------+
+
 Size
 ----
 
