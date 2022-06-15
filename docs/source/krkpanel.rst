@@ -9,7 +9,6 @@ Relink
 ~~~~
 Relink is an object data manager designed to quickly swap between keycap profiles, rows, sizes, keys and homing options. Any option that has the checkbox enabled will be taken into account when you press the Set button.
 
-|
 
 Profile
 ----
