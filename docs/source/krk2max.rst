@@ -4,6 +4,8 @@ Exporting to 3d Studio Max is pretty simple. However, there are a couple things 
 
 .. image:: img/krk2maxstart.jpg
 
+|
+
 Once your board or kit is ready, hide all of the other objects that you don't want to be a part of the export. It's likely that this would include the scene collection so turn that off.
 
 .. image:: img/TurnOffSceneCollection.gif
