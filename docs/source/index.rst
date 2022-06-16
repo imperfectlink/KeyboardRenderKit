@@ -61,6 +61,7 @@ Requirements
    :caption: Further Information
    
    optimization
+   krk2max
    
 .. toctree::
    :maxdepth: 4
