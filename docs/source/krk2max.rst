@@ -50,4 +50,8 @@ Then click on Face > Triangulate Faces or Ctrl+T then press Tab to exit edit mod
 
 |
 
-You keyboard is now ready for export. Click on File > Export > FBX. Give your file a name and don't forget to make sure that Limit to Selected Objects is checked.
+Your keyboard is now ready for export. Click on File > Export > FBX. Give your file a name and don't forget to make sure that Limit to Selected Objects is checked.
+
+.. image:: img/KRKExportFBX.jpg
+
+|
