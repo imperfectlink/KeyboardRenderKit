@@ -2,6 +2,10 @@ KRK to 3ds Max
 ====
 Exporting to 3d Studio Max is pretty simple. However, there are a couple things we need to do beforehand. 3ds Max doesn't handle ngons as well as well as Blender does but it loves triangles and quads. So let's give it what it wants.
 
+.. image:: img/krk2maxstart.jpg
+
+|
+
 Once your board or kit is ready, hide all of the other objects that you don't want to be a part of the export. It's likely that this would include the scene collection so turn that off.
 
 .. image:: img/TurnOffSceneCollection.gif
