@@ -26,7 +26,7 @@ Use the popup in the bottom left to set the type to Greater Than.
 
 .. image:: img/SelectGreaterThan.jpg
 
-Now all of the Ngons are selected.
+Now all of the Ngons and only the Ngons are selected.
 
 .. image:: img/KeyboardNgons.jpg
 
