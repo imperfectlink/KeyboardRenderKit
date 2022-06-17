@@ -45,7 +45,7 @@ Requirements
    :hidden:
    :caption: Accessories
    
-   
+   deskmat
 
 .. toctree::
    :maxdepth: 4
