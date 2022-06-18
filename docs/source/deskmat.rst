@@ -2,6 +2,8 @@ Deskmat
 ====
 The deskmat model is built procedurally with procedurally generated edge stitching.
 
+.. image:: img/DeskmatStitching.gif
+
 |
 
 Dimensions
