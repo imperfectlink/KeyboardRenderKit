@@ -24,4 +24,6 @@ In order to change the material, you will need to edit the materials that are ap
 
 You can replace the applied material and select another material in the modifiers section of the object's properties.
 
+.. image:: img/DeskmatModiMat.gif
 
+|
