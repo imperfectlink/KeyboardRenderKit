@@ -12,7 +12,7 @@ Once your board or kit is ready, hide all of the other objects that you don't wa
 
 |
 
-Once it is the only thing that is visible,select one of the objects and then select all by pressing A on your keyboard. Then hit tab to enter edit mode on all of the selected objects.
+Once it is the only thing that is visible, select one of the objects and then select all by pressing A on your keyboard. Then hit tab to enter edit mode on all of the selected objects.
 
 .. image:: img/KeyboardVertices.jpg
 
