@@ -15,6 +15,31 @@ It has custom controls in the KRK panel and supports dimensions up to 1m x 1m, c
 
 |
 
+Edging
+~~~~
+
+.. image:: img/DeskmatEdging.gif
+
+This option turns off edge stitching altogether.
+
+Edge Print
+~~~~
+
+.. image:: img/DeskmatEdgePrint.gif
+
+Use this option to turn off the edge print and use a solid color for the edging.
+
+|
+
+Edge Color
+~~~~
+
+.. image:: img/DeskmatEdgeColor.gif
+
+This is where you set the color for the edging when it is a solid color.
+
+|
+
 Material
 ~~~~
 
