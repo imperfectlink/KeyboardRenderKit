@@ -10,6 +10,8 @@ USB heads are interchangeable with other types through object data.
 
 Aviator and Lemo are interchangeable and can unplug.
 
+.. image:: img/CableLEMO.gif
+
 Settings
 ~~~~
 Settings are separate per object and per segment of cable.
