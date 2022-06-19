@@ -60,6 +60,8 @@ The plain USB cable is an exception in that it is designed to infinitely extend 
 
 .. image:: img/CableSubdiv.gif
 
+|
+
 Material
 ~~~~
 
