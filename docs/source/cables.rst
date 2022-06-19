@@ -12,4 +12,24 @@ Aviator and Lemo are interchangeable and can unplug.
 
 .. image:: img/CableProps.JPG
 
+Plug
+~~~~
+This setting plugs the Lemo or Aviator back together.
+
+Color
+~~~~
+Colors 1 and 2 supplies the material with color and accent color.
+
+Flip
+~~~~
+This setting flips the coil vertically.
+
+Mirror
+~~~~
+Thus setting mirrors the cable horizontally.
+
+Techflex
+~~~~
+This setting changes the cable over from a braid to Techflex.
+
 As with the deskmat, to change the material you will need to edit the applied materials or replace them via the modifiers section of the object's properties. 
