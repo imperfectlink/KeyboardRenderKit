@@ -8,6 +8,8 @@ Use the handles to pose the cable as you wish.
 
 USB heads are interchangeable with other types through object data.
 
+.. image:: img/CableHeads.gif
+
 Aviator and Lemo are interchangeable and can unplug.
 
 .. image:: img/CableLEMO.gif
