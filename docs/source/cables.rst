@@ -44,7 +44,7 @@ This setting flips the coil vertically.
 
 Mirror
 ----
-Thus setting mirrors the cable horizontally.
+This setting mirrors the cable horizontally.
 
 .. image:: img/CableMirror.gif
 
