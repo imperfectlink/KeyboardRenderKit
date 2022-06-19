@@ -20,6 +20,8 @@ Plug
 ----
 This setting plugs the Lemo or Aviator back together.
 
+.. image:: img/CablePlug.gif
+
 Color
 ----
 Colors 1 and 2 supplies the material with color and accent color.
