@@ -24,17 +24,25 @@ Color
 ----
 Colors 1 and 2 supplies the material with color and accent color.
 
+.. image:: img/CableColor.gif
+
 Flip
 ----
 This setting flips the coil vertically.
+
+.. image:: img/CableFlip.gif
 
 Mirror
 ----
 Thus setting mirrors the cable horizontally.
 
+.. image:: img/CableMirror.gif
+
 Tech Flex
 ----
 This setting changes the cable over from a braid to Tech Flex.
+
+.. image:: img/CableTechFlex.gif
 
 |
 
