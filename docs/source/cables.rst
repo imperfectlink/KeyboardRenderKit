@@ -64,3 +64,7 @@ Material
 ~~~~
 
 As with the deskmat, to change the material you will need to edit the applied materials or replace them via the modifiers section of the object's properties. 
+
+.. image:: img/CableMaterial.jpg
+
+|
