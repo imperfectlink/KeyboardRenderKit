@@ -6,6 +6,8 @@ There are a few configurations of USB cable available.
 
 Use the handles to pose the cable as you wish.
 
+.. image:: img/CableHandle.gif
+
 USB heads are interchangeable with other types through object data.
 
 .. image:: img/CableHeads.gif
