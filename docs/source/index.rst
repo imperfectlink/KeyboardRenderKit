@@ -47,6 +47,7 @@ Requirements
    
    deskmat
    cables
+   mouse
 
 .. toctree::
    :maxdepth: 4

@@ -4,13 +4,19 @@ There are a few configurations of USB cable available.
 
 .. image:: img/USBCables.JPG
 
+|
+
 Use the handles to pose the cable as you wish.
 
 .. image:: img/CableHandle.gif
 
+|
+
 USB heads are interchangeable with other types through object data.
 
 .. image:: img/CableHeads.gif
+
+|
 
 Aviator and Lemo are interchangeable and can unplug.
 
@@ -24,11 +30,15 @@ Settings are separate per object and per segment of cable.
 
 .. image:: img/CableProps.JPG
 
+|
+
 Plug
 ----
 This setting plugs the Lemo or Aviator back together.
 
 .. image:: img/CablePlug.gif
+
+|
 
 Color
 ----
@@ -36,11 +46,15 @@ Colors 1 and 2 supplies the material with color and accent color.
 
 .. image:: img/CableColor.gif
 
+|
+
 Flip
 ----
 This setting flips the coil vertically.
 
 .. image:: img/CableFlip.gif
+
+|
 
 Mirror
 ----
