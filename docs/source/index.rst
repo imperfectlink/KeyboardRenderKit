@@ -46,6 +46,7 @@ Requirements
    :caption: Accessories
    
    deskmat
+   cables
 
 .. toctree::
    :maxdepth: 4
