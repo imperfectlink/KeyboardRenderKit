@@ -54,6 +54,12 @@ This setting changes the cable over from a braid to Tech Flex.
 
 |
 
+Straight Cable
+~~~~
+The plain USB cable is an exception in that it is designed to infinitely extend through editing the curve object and adding vertices by subdividing the segments.
+
+.. image:: img/CableSubdiv.gif
+
 Material
 ~~~~
 
