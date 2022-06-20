@@ -18,4 +18,6 @@ Click on File > Export > FBX. Give your file a name and don't forget to make sur
 
 .. image:: img/MammothExport.jpg
 
+|
+
 Now in Cinema 4d Import your FBX.
