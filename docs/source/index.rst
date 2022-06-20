@@ -64,6 +64,7 @@ Requirements
    
    optimization
    krk2max
+   krk2c4d
    
 .. toctree::
    :maxdepth: 4
