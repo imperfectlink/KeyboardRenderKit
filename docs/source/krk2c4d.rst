@@ -20,4 +20,14 @@ Click on File > Export > FBX. Give your file a name and don't forget to make sur
 
 |
 
-Now in Cinema 4d Import your FBX.
+Now in Cinema 4d Import your FBX then apply the scales by clicking on Tools > Axis > Reset Scale and the cog for options.
+
+.. image:: img/MammothC4d.png
+
+|
+
+For the options turn on both of the checkboxes.
+
+.. image:: img/MammothC4dOption.png
+
+|
