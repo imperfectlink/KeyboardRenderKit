@@ -10,7 +10,7 @@ Once your board or kit is ready, hide or turn off all other objects that you don
 
 Press A on your keyboard to select all.
 
-.. image:: MammothBlenderSelection.jpg
+.. image:: img/MammothBlenderSelection.jpg
 
 |
 
