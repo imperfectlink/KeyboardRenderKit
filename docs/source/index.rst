@@ -16,6 +16,13 @@ Requirements
 
 **Blender Cycles capable machine**
 
+Links
+~~~~
+Gumroad
+BlenderMarket
+`Instagram <https://www.instagram.com/keyboardrenderkit/>`_
+`Discord <https://discord.gg/fVkGTunzT3>`_
+
 |
 
 .. toctree::
