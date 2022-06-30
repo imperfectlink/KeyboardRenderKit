@@ -18,7 +18,7 @@ Requirements
 
 Links
 ~~~~
-Gumroad
+`Gumroad <https://imperfectlink.gumroad.com/l/KRK2>`_
 |
 BlenderMarket
 |
