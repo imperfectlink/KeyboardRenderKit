@@ -1,4 +1,4 @@
-.. image:: docs/source/img/PolyclearPhoenix45WKL.jpg
+.. image:: docs/source/img/KRK2Banner.png
 
 Welcome to Keyboard Render Kit!
 ====
