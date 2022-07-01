@@ -87,7 +87,7 @@ As with the deskmat, to change the material you will need to edit the applied ma
 
 |
 
-.. _Exporting Cables:
+.. _ExportingCables:
 
 Exporting Cables
 ~~~~
