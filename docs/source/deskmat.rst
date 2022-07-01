@@ -52,3 +52,13 @@ You can replace the applied material and select another material in the modifier
 .. image:: img/DeskmatModiMat.gif
 
 |
+
+Exporting
+~~~~
+
+If you are exporting the deskmat to other software, the stitching for the deskmat needs to be converted and the UV attribute converted to a UV map. See the export section of the USB Cables page to learn this process.
+
+`cables`_
+
+|
+
