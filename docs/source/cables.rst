@@ -87,8 +87,11 @@ As with the deskmat, to change the material you will need to edit the applied ma
 
 |
 
-Exporting
+.. _ExportingCables:
+
+Exporting Cables
 ~~~~
+
 If you are exporting the cable to another software, the cable will not have a UV map and will need to be converted from an attribute. Select the cable (wire) object and press ctrl+A then choose Visual Geometry to Mesh.
 
 .. image:: img/CurveToMesh.gif
