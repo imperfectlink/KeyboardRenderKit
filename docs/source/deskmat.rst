@@ -58,7 +58,7 @@ Exporting
 
 If you are exporting the deskmat to other software, the stitching for the deskmat needs to be converted and the UV attribute converted to a UV map. See the export section of the USB Cables page to learn this process.
 
-:ref:`plug <cables>`.
+Reference `Exporting Cables`_.
 
 |
 
