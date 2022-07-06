@@ -24,7 +24,7 @@ Create a new layer and paste your legends into the new layer. You can nudge the 
 
 |
 
-If you would like to use the align tool to align to individual keycaps, the template needs to be broken up into parts. You can do this by selecting it and press Path > Break Apart or Ctrl+Shift+K.
+If you would like to use the align tool to align to individual keycaps, the template needs to be broken up into parts. You can do this by selecting it and press Layer > Geometry > Separate Curves.
 
 .. image:: img/AffinitySeparate.jpg
 
