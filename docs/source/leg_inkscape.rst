@@ -46,7 +46,4 @@ If your novelties or legends are multicolor then turn off the black background a
 
 .. image:: img/InkscapeFullColor.jpg
 
-Adobe Illustrator
-~~~~
-
 |
