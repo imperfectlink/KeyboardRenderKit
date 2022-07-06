@@ -25,6 +25,8 @@ BlenderMarket
 `Instagram <https://www.instagram.com/keyboardrenderkit/>`_
 |
 `Discord <https://discord.gg/fVkGTunzT3>`_
+|
+`Legends Repo <https://github.com/imperfectlink/KRKLegendsRepo>`_
 
 |
 
