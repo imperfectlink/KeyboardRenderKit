@@ -1,6 +1,3 @@
-Creating Legends
-====
-
 Inkscape
 ~~~~
 
