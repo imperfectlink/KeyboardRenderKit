@@ -39,3 +39,7 @@ Once you have your legends in place, export with File > Export or Ctrl+Alt+Shift
 If your novelties or legends are multicolor then turn off the black background and export as an image with transparency. You can use the Alpha channel as the mask and plug the color into the legend color.
 
 |
+
+.. image:: img/AffinityColor.jpg
+
+|
