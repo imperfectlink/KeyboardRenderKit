@@ -50,7 +50,15 @@ BlenderMarket
    :caption: Materials
    
    capsmat
-   legends
+
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Creating Legends
+   
+   leg_inkscape
+   leg_illustrator
+   leg_designer
 
 .. toctree::
    :maxdepth: 4
