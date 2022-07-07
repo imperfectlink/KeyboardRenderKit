@@ -2,7 +2,8 @@ Troubleshooting
 ~~~~
 
 How do I install Keyboard Render Kit?
-|
+
+
 Keyboard Render Kit is all packed into the blend file which you can access by simply opening the file in Blender.
 
 Where are my keycaps?
