@@ -1,6 +1,8 @@
 Troubleshooting
 ~~~~
 
+|
+
 How do I install Keyboard Render Kit?
 
 
