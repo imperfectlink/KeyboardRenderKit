@@ -91,6 +91,7 @@ BlenderMarket
    :hidden:
    :caption: Reference
    
+   troubleshooting
    recipes
    profiles
    boards
