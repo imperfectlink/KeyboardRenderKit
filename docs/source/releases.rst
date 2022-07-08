@@ -14,6 +14,8 @@ Added: New Cherry models
 
 Added: New DCS Models
 
+Added: Front legend support to capsmat (For new cherry and dcs)
+
 Added: W1-AT board
 
 Added: Vector65 board
