@@ -16,6 +16,8 @@ Added: New DCS Models
 
 Added: Front legend support to capsmat (For new cherry and dcs)
 
+Added: Palette material utilities
+
 Added: W1-AT board
 
 Added: Vector65 board
