@@ -10,6 +10,10 @@ Added: New KRK Panel
 
 Added: Placeholder profile
 
+Added: New Cherry models
+
+Added: New DCS Models
+
 Added: W1-AT board
 
 Added: Vector65 board
@@ -50,8 +54,14 @@ Added: USB microconnector
 
 Added: USB mini connector
 
+Improved: Separated keycap profiles
+
+Improved: Organized boards in outliner
+
 Improved: Remodeled Aviator connector
 
 Improved: Remodeled Deskmat to be more versatile
 
 Improved: Remodeled USB cable to be more versatile
+
+Improved: G305 material and added properties
