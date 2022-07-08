@@ -64,8 +64,8 @@ Improved: Organized boards in outliner
 
 Improved: Remodeled Aviator connector
 
-Improved: Remodeled Deskmat to be more versatile
+Improved: Rebuilt Deskmat to be more versatile
 
-Improved: Remodeled USB cable to be more versatile
+Improved: Rebuilt USB cable to be more versatile
 
 Improved: G305 material and added properties
