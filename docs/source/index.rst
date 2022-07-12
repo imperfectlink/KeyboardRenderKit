@@ -20,7 +20,7 @@ Links
 ~~~~
 `Gumroad <https://imperfectlink.gumroad.com/l/KRK2>`_
 |
-BlenderMarket
+`BlenderMarket <https://blendermarket.com/products/krk2>`_
 |
 `Instagram <https://www.instagram.com/keyboardrenderkit/>`_
 |
