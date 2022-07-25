@@ -9,6 +9,7 @@ You can add your own deskmat design to the deskmat by editing three materials, D
 
 Find the image texture node in each of the materials and load your own image into the node.
 
+.. image:: img/Deskmat_Thoughts.jpg
 
 |
 
