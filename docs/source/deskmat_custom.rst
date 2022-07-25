@@ -22,7 +22,7 @@ By default, the deskmat is able to scale to 1mx1m so your design should be posit
 If you prefer to use another size image, make sure to set the position in the mapping node to half the deskmat size and the scale to the size in meters.
 
 .. image:: img/Deskmat_Image.jpg
-   :alt: "Milky Way" by metalbender and the spacey 
+   "Milky Way" by metalbender and the spacey 
 
 |
 
