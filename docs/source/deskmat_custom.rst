@@ -29,3 +29,7 @@ If you prefer to use another size image, make sure to set the position in the ma
 You can also replace the image texture node with a pattern.
 
 .. image:: img/Deskmat_Pattern.jpg
+
+|
+
+
