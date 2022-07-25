@@ -12,3 +12,7 @@ Right click on the switch collection and choose "select objects". Make sure you 
 One of them changed into a switch. You can now make all of them into switches by pressing ctrl+L to bring up the Link dialogue then O for Object Data. You should now have a full board of switches.
 
 Now let's add the stabilizers. Select a switch that needs to have a stabilizer accompanying it and duplicate linked using Alt+D. Right click or escape to cancel the movement.
+
+With that new switch selected, open the Object Data dropdown and type 'stab' to filter to the stabilizers. Again, choose whether you need it to be the simple or complex model and the size and orientation of the stabilizer.
+
+Do this for the rest of the stabilizers and you're done.
