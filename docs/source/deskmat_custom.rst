@@ -9,6 +9,8 @@ You can add your own deskmat design to the deskmat by editing three materials, D
 
 Find the image texture node in each of the materials and load your own image into the node.
 
+.. image:: img/Deskmat_Image.jpg
+
 |
 
 By default, the deskmat is able to scale to 1mx1m so your design should be positioned on a 1mx1m square.
