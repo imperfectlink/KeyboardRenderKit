@@ -3,6 +3,8 @@ Adding Your Own Deskmat Design
 
 You can add your own deskmat design to the deskmat by editing three materials, Deskmat_Mat, Deskmat_Edging and Deskmat_Stitching. You can find these in the Material Properties panel.
 
+.. image:: img/Deskmat_Slots.jpg
+
 |
 
 Find the image texture node in each of the materials and load your own image into the node.
