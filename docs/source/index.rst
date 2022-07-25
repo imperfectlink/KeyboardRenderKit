@@ -66,6 +66,7 @@ Links
    :caption: Accessories
    
    deskmat
+   deskmat_custom
    cables
    mouse
 
