@@ -23,7 +23,7 @@ If you prefer to use another size image, make sure to set the position in the ma
 
 .. figure:: img/Deskmat_Image.jpg
 
-Milky Way by metalbender and the spacey 
+Image: Milky Way by metalbender and the spacey 
 
 |
 
