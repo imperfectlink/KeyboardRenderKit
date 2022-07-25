@@ -77,6 +77,7 @@ Links
    
    workflow1
    workflow2
+   switchesstabs
    
 .. toctree::
    :maxdepth: 4
