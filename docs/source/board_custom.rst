@@ -9,11 +9,11 @@ As an example, let's use Alchemist Keyboards Aella render file converted to OBJ.
 
 |
 
-In a new Blender file, delete the contents (cube, camera, light) and set your Units to millimeters in the Scene Properties tab of the Properties Panel.
+In a new Blender file, delete the contents (cube, camera, light) (A X D) and set your Units to millimeters in the Scene Properties tab of the Properties Panel.
 
 |
 
-Now you can import the Aella OBJ by clicking File > Import > Wavefront Obj
+Now you can import the Aella OBJ by clicking File > Import > Wavefront Obj (F4 I W)
 
 |
 
@@ -25,15 +25,19 @@ Now apply the scale and rotation by pressing ctrl+A then A again to apply All Tr
 
 |
 
-Now let's create a move handle. Press Add > Mesh > Plane.
+Now let's create a move handle. Press Add > Mesh > Plane (Shift+A M P)
 
 |
 
-Hold Shift and click on the board's case to add it to the selection. Then align the plane using Object > Transform > Align Objects and enable X and Y axes by shift clicking both X and Y in the dialogue.
+Hold Shift and click on the board's bottom case to add it to the selection. Then align the plane using Object > Transform > Align Objects and enable X and Y axes by shift clicking both X and Y in the dialogue.
 
 |
 
 Now repeat the Align Objects, this time with Align Mode set to Negative Sides and the Z axis selected.
+
+|
+
+Your plane is now in the right position, next it needs to be scaled to be a little larger than the board footprint (S X + S Y)
 
 |
 
