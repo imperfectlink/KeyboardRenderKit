@@ -41,4 +41,3 @@ Your plane is now in the right position, next it needs to be scaled to be a litt
 
 |
 
-
