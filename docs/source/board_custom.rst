@@ -5,4 +5,4 @@ This tutorial isn't going to cover export settings from your CAD software. Expor
 
 |
 
-As an example, let's use Alchemist Keyboards Aella render file converted to OBJ. Download it here.
+As an example, let's use Alchemist Keyboards Aella render file converted to OBJ. `Download it here. <files/AKB_Aella.obj>`_
