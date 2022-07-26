@@ -29,4 +29,12 @@ Now let's create a move handle. Press Add > Mesh > Plane.
 
 |
 
-Hold Shift and click on the board's case to add it to the selection.
+Hold Shift and click on the board's case to add it to the selection. Then align the plane using Object > Transform > Align Objects and enable X and Y axes by shift clicking both X and Y in the dialogue.
+
+|
+
+Now repeat the Align Objects, this time with Align Mode set to Negative Sides and the Z axis selected.
+
+|
+
+
