@@ -41,3 +41,19 @@ Your plane is now in the right position, next it needs to be scaled to be a litt
 
 |
 
+Convert it into a curve using Object > Convert > Curve. Your move handle is done.
+
+|
+
+Parent all of the board objects to the move handle. With it selected, press A to select all then ctrl+P > Object (Keep Transform). Now when you move the move handle, the rest will come with it.
+
+|
+
+Now it's time to import the keycap layout. In this case it's the 75% layout. File > Append then navigate to the KRK201 file and double click on it. Blend files behave like folders. Now enter the Collections, search for 75 and append the 75 collection. 
+
+|
+
+You may have to enable the viewport visibility for the collection. In the outliner, enable viewport disable filter and enable it for the 75 collection.
+
+|
+
