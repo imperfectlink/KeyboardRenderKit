@@ -9,7 +9,7 @@ As an example, let's use Alchemist Keyboards Aella render file converted to OBJ.
 
 |
 
-In a new Blender file, set your Units to millimeters in the Scene Properties tab of the Properties Panel.
+In a new Blender file, delete the contents (cube, camera, light) and set your Units to millimeters in the Scene Properties tab of the Properties Panel.
 
 |
 
@@ -24,3 +24,9 @@ The first thing you'll notice is that the scale is incorrect. In this case the m
 Now apply the scale and rotation by pressing ctrl+A then A again to apply All Transforms.
 
 |
+
+Now let's create a move handle. Press Add > Mesh > Plane.
+
+|
+
+Hold Shift and click on the board's case to add it to the selection.
