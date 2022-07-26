@@ -5,4 +5,4 @@ This tutorial isn't going to cover export settings from your CAD software. Expor
 
 |
 
-As an example, let's use Alchemist Keyboards Aella render file converted to OBJ. `Right click save <https://github.com/imperfectlink/KeyboardRenderKit/raw/main/docs/source/files/AKB_Aella.obj>`_
+As an example, let's use Alchemist Keyboards Aella render file converted to OBJ. `Right Click > Save <https://github.com/imperfectlink/KeyboardRenderKit/raw/main/docs/source/files/AKB_Aella.obj>`_
