@@ -6,3 +6,19 @@ This tutorial isn't going to cover export settings from your CAD software. Expor
 |
 
 As an example, let's use Alchemist Keyboards Aella render file converted to OBJ. `Right Click > Save <https://github.com/imperfectlink/KeyboardRenderKit/raw/main/docs/source/files/AKB_Aella.obj>`_
+
+|
+
+In a new Blender file, set your Units to millimeters in the Scene Properties tab of the Properties Panel.
+
+|
+
+Now you can import the Aella OBJ by clicking File > Import > Wavefront Obj
+
+|
+
+
+
+|
+
+|
