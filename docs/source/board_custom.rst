@@ -37,7 +37,7 @@ Now repeat the Align Objects, this time with Align Mode set to Negative Sides an
 
 |
 
-Your plane is now in the right position, next it needs to be scaled to be a little larger than the board footprint (S X + S Y)
+Your plane is now in the right position, next it needs to be scaled to be a little larger than the board footprint (S X + S Y) then apply the scale.
 
 |
 
