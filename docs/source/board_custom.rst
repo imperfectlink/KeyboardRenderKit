@@ -43,13 +43,19 @@ Now apply the scale and rotation by pressing ctrl+A then A again to apply All Tr
 
 Now let's create a move handle. Press Add > Mesh > Plane (Shift+A M P)
 
+.. image:: img/MoveHandle1.jpg
+
 |
 
 Hold Shift and click on the board's bottom case to add it to the selection. Then align the plane using Object > Transform > Align Objects and enable X and Y axes by shift clicking both X and Y in the dialogue.
 
+.. image:: img/MoveHandle2.jpg
+
 |
 
 Now repeat the Align Objects, this time with Align Mode set to Negative Sides and the Z axis selected.
+
+.. image:: img/MoveHandle3.gif
 
 |
 
