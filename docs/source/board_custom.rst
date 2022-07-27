@@ -57,7 +57,7 @@ You may have to enable the viewport visibility for the collection. In the outlin
 
 |
 
-Select the layout's move handle (cross shaped empty) and move the layout into position and rotate it 7 degrees on the X axis (type angle for Aella).
+Select the layout's move handle (cross shaped empty) and move the layout into position based on the Alphas section and rotate it 7 degrees on the X axis (type angle for Aella).
 
 |
 
