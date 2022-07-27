@@ -57,4 +57,15 @@ You may have to enable the viewport visibility for the collection. In the outlin
 
 |
 
-Select the layout's move handle (cross shaped empty) and move the layou into position and rotate it 7 degrees on the X axis (type angle for Aella).
+Select the layout's move handle (cross shaped empty) and move the layout into position and rotate it 7 degrees on the X axis (type angle for Aella).
+
+|
+
+Parent the layout's move handle to the board's move handle.
+
+|
+
+The placeholders will need to be moved around to match the board's layout.
+
+|
+
