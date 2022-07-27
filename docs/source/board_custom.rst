@@ -61,13 +61,17 @@ Now repeat the Align Objects, this time with Align Mode set to Negative Sides an
 
 Your plane is now in the right position, next it needs to be scaled to be a little larger than the board footprint (S X + S Y) then apply the scale.
 
+.. image:: img/MoveHandle4.gif
+
 |
 
 Convert it into a curve using Object > Convert > Curve. Your move handle is done.
 
+
+
 |
 
-Parent all of the board objects to the move handle. With it selected, press A to select all then ctrl+P > Object (Keep Transform). Now when you move the move handle, the rest will come with it.
+Parent all of the board objects to the move handle. With it selected, press A to select all then ctrl+P > Object (Keep Transform). Now when you move the move handle, the rest will come with it. Clear the location with Alt+G to reset the move handle and all of its children to world 0.
 
 |
 
