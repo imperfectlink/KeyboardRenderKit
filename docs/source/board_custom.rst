@@ -57,3 +57,4 @@ You may have to enable the viewport visibility for the collection. In the outlin
 
 |
 
+Select the layout's move handle (cross shaped empty) and move the layou into position and rotate it 7 degrees on the X axis (type angle for Aella).
