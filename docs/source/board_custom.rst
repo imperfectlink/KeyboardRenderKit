@@ -9,9 +9,11 @@ As an example, let's use Alchemist Keyboards Aella render file converted to OBJ.
 
 |
 
+.. image:: img/DelAll.gif
+
 In a new Blender file, delete the contents (cube, camera, light) (A X D) and set your Units to millimeters in the Scene Properties tab of the Properties Panel.
 
-.. image:: img/DelAll.gif
+.. image:: img/SetUnitsMM.jpg
 
 |
 
