@@ -23,11 +23,21 @@ Now you can import the Aella OBJ by clicking File > Import > Wavefront Obj (F4 I
 
 |
 
-The first thing you'll notice is that the scale is incorrect. In this case the millimeter units were plugged into meters. Scale the board to a thousandth by pressing S 0.001 .
+The first thing you'll notice is that the scale is incorrect. In this case the millimeter units were plugged into meters. 
+
+.. image:: img/Resize1.jpg
+
+|
+
+Scale the board to a thousandth by pressing S 0.001 . You may have to reframe your board so you can see it using the Home key.
+
+.. image:: img/Resize2.jpg
 
 |
 
 Now apply the scale and rotation by pressing ctrl+A then A again to apply All Transforms.
+
+.. image:: img/Resize3.jpg
 
 |
 
