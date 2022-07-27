@@ -11,9 +11,13 @@ As an example, let's use Alchemist Keyboards Aella render file converted to OBJ.
 
 In a new Blender file, delete the contents (cube, camera, light) (A X D) and set your Units to millimeters in the Scene Properties tab of the Properties Panel.
 
+.. image:: img/DelAll.gif
+
 |
 
 Now you can import the Aella OBJ by clicking File > Import > Wavefront Obj (F4 I W)
+
+.. image:: img/ImportObj.jpg
 
 |
 
