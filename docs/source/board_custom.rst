@@ -73,6 +73,8 @@ Convert it into a curve using Object > Convert > Curve. Your move handle is done
 
 Parent all of the board objects to the move handle. With it selected, press A to select all then ctrl+P > Object (Keep Transform). Now when you move the move handle, the rest will come with it. Clear the location with Alt+G to reset the move handle and all of its children to world 0.
 
+.. image:: img/MoveHandle6.gif
+
 |
 
 Now it's time to import the keycap layout. In this case it's the 75% layout. File > Append then navigate to the KRK201 file and double click on it. Blend files behave like folders. Now enter the Collections, search for 75 and append the 75 collection. 
