@@ -107,6 +107,12 @@ The placeholders will need to be moved around to match the board's layout. You c
 
 |
 
+Turn on the Tsangan bottom row.
+
+.. image:: img/75BottomRow.gif
+
+|
+
 Select the placeholders you want to move and use axis constraints to move them around. G X for move on X axis, G YY for moving on local Y etc. The Win keys need to be deleted and the Alt key needs to be linked from the left side (Ctrl+L O). Hold Ctrl or turn on snapping with the magnet icon to use snapping increment.
 
 .. image:: img/AellaLayoutAjust.gif
