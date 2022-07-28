@@ -79,9 +79,13 @@ Parent all of the board objects to the move handle. With it selected, press A to
 
 Now it's time to import the keycap layout. In this case it's the 75% layout. File > Append then navigate to the KRK201 file and double click on it. Blend files behave like folders. Now enter the Collections, search for 75 and append the 75 collection. 
 
+.. image:: mig/ImportLayout.jpg
+
 |
 
 You may have to enable the viewport visibility for the collection. In the outliner, enable viewport disable filter and enable it for the 75 collection.
+
+.. image:: img/75Vis.gif
 
 |
 
