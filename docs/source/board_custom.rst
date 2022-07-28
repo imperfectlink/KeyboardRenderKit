@@ -101,7 +101,9 @@ Parent the layout's move handle to the board's move handle.
 
 |
 
-The placeholders will need to be moved around to match the board's layout. You can set the increment amount to 1/8th unit by entering this number into the grid size.
+The placeholders will need to be moved around to match the board's layout. You can set the snap increment amount to 1/8th unit by entering 0.002381 into the grid size.
+
+.. image:: img/SnapIncrementGrid.jpg
 
 |
 
