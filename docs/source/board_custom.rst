@@ -1,4 +1,4 @@
-Custom Board
+Custom Board Preparation
 ====
 
 This tutorial isn't going to cover export settings from your CAD software. Export your design as an OBJ or FBX and import it into Blender. Alternately, you can use the Stepper Blender addon to import the STEP/STP file directly.
