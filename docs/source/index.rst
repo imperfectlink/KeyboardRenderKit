@@ -78,6 +78,7 @@ Links
    workflow1
    workflow2
    switchesstabs
+   board_custom
    
 .. toctree::
    :maxdepth: 4
