@@ -97,7 +97,7 @@ Select the layout's move handle (cross shaped empty) and move the layout into po
 
 Parent the layout's move handle to the board's move handle.
 
-
+.. image:: img/75MoveLayoutParent.gif
 
 |
 
