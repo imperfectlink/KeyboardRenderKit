@@ -67,7 +67,7 @@ Your plane is now in the right position, next it needs to be scaled to be a litt
 
 Convert it into a curve using Object > Convert > Curve. Your move handle is done.
 
-
+.. image:: img/MoveHandle5.jpg
 
 |
 
