@@ -113,3 +113,8 @@ Select the placeholders you want to move and use axis constraints to move them a
 
 |
 
+Your board is now ready and KRK2 compatible. Save it out as a compressed blend file for distribution and import into KRK2.
+
+.. image:: img/AellaExport.jpg
+
+|
