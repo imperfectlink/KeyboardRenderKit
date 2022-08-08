@@ -1,6 +1,16 @@
 Release Logs
 ====
 
+KRK202
+~~~~
+
+Added:Keycap Puller Accessory
+
+Improved:Preloaded colour JSON with default KRK theme so you can jump straight to boards
+
+Fixed:DCS ISO Not,2,3 keys wrong row
+
+
 |
 
 KRK201
