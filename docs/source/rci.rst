@@ -24,6 +24,10 @@ Although Restore Collection Instances was originally developed as a part of Keyb
 
 |
 
+.. image:: img/KRK2Divider2.jpg
+
+|
+
 To use the tool, simply press ctrl+A and find it in the apply menu.
 
 .. image:: img/RestoreCollectionInstances.jpg
