@@ -1,3 +1,5 @@
+.. image:: img/CRI_Banner.jpg
+
 Restore Collection Instances
 ====
 
