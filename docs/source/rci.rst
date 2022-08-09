@@ -1,4 +1,4 @@
-Collection Restore Instance
+Restore Collection Instance
 ====
 
 Restore Collection Instance is a simple addon developed to fill a gap in Blender functionality where collection assets do not restore properly with Blender's default "Make Instances Real" function. Blender does not maintain the original collection hierarchy even though parent hierarchy can be maintained.
