@@ -1,11 +1,11 @@
 Collection Restore Instance
 ====
 
-Restore Collection Instance is a simple addon developed to fill a gap in Blender functionality where collection assets do not restore properly with Blender's default "Make Instances Real" function. Blender does not maintain the original collection heirarchy even though parent heirarchy can be maintained.
+Restore Collection Instance is a simple addon developed to fill a gap in Blender functionality where collection assets do not restore properly with Blender's default "Make Instances Real" function. Blender does not maintain the original collection hierarchy even though parent hierarchy can be maintained.
 
 |
 
-Compare results of Make Instances Real with the maintain heirarchy option turned on vs. Restore Collection Instance.
+Compare results of Make Instances Real with the maintain hierarchy option turned on vs. Restore Collection Instance.
 
 |
 
