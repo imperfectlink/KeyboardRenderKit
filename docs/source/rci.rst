@@ -16,6 +16,10 @@ In this example, the original collection asset had 176 objects in it with some v
 
 |
 
+.. image:: img/KRK2Divider.jpg
+
+|
+
 Although Restore Collection Instances was originally developed as a part of Keyboard Render Kit, we quickly realized that this would be useful as a general purpose tool.
 
 |
