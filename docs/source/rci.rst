@@ -5,7 +5,11 @@ Restore Collection Instances is a simple addon developed to fill a gap in Blende
 
 |
 
-Compare results of Make Instances Real with the maintain hierarchy option turned on vs. Restore Collection Instances. In this example, the original collection asset had 176 objects in it with some visibility options turned off. The Make Instances Real function brought back 161 of them and lost all of the collections, organization and colour.
+Compare results of Make Instances Real with the maintain hierarchy option turned on vs. Restore Collection Instances. 
+
+
+
+In this example, the original collection asset had 176 objects in it with some visibility options turned off. The Make Instances Real function brought back 161 of them and lost all of the collections, organization and colour.
 
 |
 
