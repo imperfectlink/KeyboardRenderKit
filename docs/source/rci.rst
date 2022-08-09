@@ -1,4 +1,4 @@
-.. image:: img/CRI_Banner.jpg
+.. image:: img/RCI_Banner.jpg
 
 Restore Collection Instances
 ====
