@@ -12,7 +12,7 @@ Compare results of Make Instances Real with the maintain hierarchy option turned
 
 .. image:: img/RCIvsMIR.jpg
 
-In this example, the original collection asset had 176 objects in it with some visibility options turned off. The Make Instances Real function brought back 161 of them and lost all of the collections, organization and colour.
+In this example, the original collection asset had 176 objects in it with some visibility options turned off. The Make Instances Real function only brought back 161 of them and lost all of the collections, organization and colour.
 
 |
 
