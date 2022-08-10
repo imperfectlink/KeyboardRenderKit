@@ -99,3 +99,10 @@ Links
    profiles
    boards
    releases
+   
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :caption: Resources
+   
+   rci
