@@ -52,7 +52,7 @@ In Scene Properties, set the camera to Camera_Board2.
 
 |
 
-Rotate the viewport to an interesting angle and set the active camera to view by clicking View > Align View > Align Active Camera To View (Ctrl+Shift+Numpad0).
+Rotate the viewport to an interesting angle and set the active camera to view by clicking View > Align View > Align Active Camera To View (Ctrl+Alt+Numpad0).
 
 .. image:: img/SetActiveCamera.gif
 
