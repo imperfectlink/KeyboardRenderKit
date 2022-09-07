@@ -1,6 +1,56 @@
 Release Logs
 ====
 
+KRK204
+~~~~
+
+Added: KLE importer
+
+Added: Grid Cap model
+
+Added: 1U Caps
+
+Added: IRON165 R2 board
+
+Added: IRON165 FE board
+
+Added: IRON180 board
+
+Improved:Added general Ctrl+Alt+Super keys
+
+Improved: Switched Isometria to Iso by default
+
+Improved: Palette E now says Legend in KRK Panel
+
+Improved: Added regular named Ctrl, Alt, Super keys as well as the existing CtrlL, AltL etc.
+
+Fixed:Moved origins for CapsStepped, BigEnter, EnterIso
+
+Fixed: Renamed >< key to LessGreater
+
+Fixed: Renamed FN to Fn
+
+|
+
+KRK203
+~~~~
+
+Added: NK65 Board
+
+Improved: Moved Board assets to Asset Browser
+
+Improved: Moved Layouts to Asset Browser
+
+Improved: Moved Accessories to Asset Browser
+
+Improved: Moved shader out of Capsmat
+
+Fixed: Enabled scene lights and world for viewport
+
+Fixed: Some keys in kits didn't have palette info preloaded
+
+|
+
 KRK202
 ~~~~
 
