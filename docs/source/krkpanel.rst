@@ -1,6 +1,6 @@
 KRK Panel
 ====
-.. image:: img/krkpanel.jpg
+.. image:: img/krkpanel204.jpg
 The KRK panel can be found in the sidebar (N) and is is separated into four sections: Relink, Data, Color and Properties. The last two are only visible when the relevant properties are available.
 
 |
@@ -8,6 +8,11 @@ The KRK panel can be found in the sidebar (N) and is is separated into four sect
 Relink
 ~~~~
 Relink is an object data manager designed to quickly swap between keycap profiles, rows, sizes, keys and homing options. Any option that has the checkbox enabled will be taken into account when you press the Set button.
+
+Import KLE
+~~~~
+KRK has the ability to import Keyboard Layout Editor JSON files. KLE doesn't name its objects so the importer tries to interpret the keys based on the legend and the row (K1-K6) and sets a placeholder wheverver it can. Use this KLE as an example or as a basis to generate your own:
+`http://www.keyboard-layout-editor.com/#/gists/f7528ebe1348daab7abc45bc2f662c8a <http://www.keyboard-layout-editor.com/#/gists/f7528ebe1348daab7abc45bc2f662c8a>`_
 
 
 Profile
