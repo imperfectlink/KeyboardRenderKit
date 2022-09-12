@@ -1,6 +1,6 @@
 KRK Panel
 ====
-.. image:: img/krkpanel.jpg
+.. image:: img/krkpanel204.jpg
 The KRK panel can be found in the sidebar (N) and is is separated into four sections: Relink, Data, Color and Properties. The last two are only visible when the relevant properties are available.
 
 |
@@ -8,6 +8,11 @@ The KRK panel can be found in the sidebar (N) and is is separated into four sect
 Relink
 ~~~~
 Relink is an object data manager designed to quickly swap between keycap profiles, rows, sizes, keys and homing options. Any option that has the checkbox enabled will be taken into account when you press the Set button.
+
+Import KLE
+~~~~
+KRK has the ability to import Keyboard Layout Editor JSON files. KLE doesn't name its objects so the importer tries to interpret the keys based on the legend and the row (K1-K6) and sets a placeholder wheverver it can. Use this KLE as an example or as a basis to generate your own:
+`http://www.keyboard-layout-editor.com/#/gists/f7528ebe1348daab7abc45bc2f662c8a <http://www.keyboard-layout-editor.com/#/gists/f7528ebe1348daab7abc45bc2f662c8a>`_
 
 
 Profile
@@ -110,6 +115,18 @@ Data mirrors the object data and material assignment sections from the propertie
 Easily search through object data to replace the active object data with another. Eg. duplicate or instance a keycap and make the copy into a switch or stabilizer.
 
 .. image:: img/ObjectDataSwitch.gif
+
+|
+
+Restore Meshes can be used when a keycap is unable to be relinked because it was duplicated, imported or pasted. What it does is reconnects it with the similarly named version that is already in the file. If you would like to use the imported one as the base then rename its object data to not have .001 at the end.
+
+.. image:: img/RestoreMesh.gif
+
+|
+
+Restore Collections only appears when you have a collection asset selected. This allows you restore it to an editable state.
+
+.. image:: img/RestoreCollection.jpg
 
 |
 
