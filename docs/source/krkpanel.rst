@@ -1,5 +1,6 @@
 KRK Panel
 ====
+
 .. image:: img/krkpanel204.jpg
 
 The KRK panel can be found in the sidebar (N) and is is separated into four sections: Relink, Data, Color and Properties. The last two are only visible when the relevant properties are available.
