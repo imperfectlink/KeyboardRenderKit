@@ -118,6 +118,14 @@ Easily search through object data to replace the active object data with another
 
 |
 
+Restore Meshes can be used when a keycap is unable to be relinked because it was duplicated, imported or pasted. What it does is reconnects it with the similarly named version that is already in the file. If you would like to use the imported one as the base then rename its object data to not have .001 at the end.
+
+|
+
+Restore Collections only appears when you have a collection asset selected. This allows you restore it to an editable state.
+
+|
+
 The Copy button here links the material from the active keycap object to all of the other selected keycaps while ingnoring non-keycap objects.
 
 .. image:: img/MatCopy.gif
