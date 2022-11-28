@@ -17,4 +17,8 @@ This layout is the testing ground for KLE to KRK translation and loads into KRK 
 
 |
 
+.. image:: img/KLEKRK2.jpg
+
+|
+
 Take note of the legend and row designations since these are what is used for translation into KRK. If you make modifications, they may not translate at all. Remember, the legends themselves are not translated and they only serve as a keycap name. Once you are in Blender the keycap can have any legend on it through legend masks.
