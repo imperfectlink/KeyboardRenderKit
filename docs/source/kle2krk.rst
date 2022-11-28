@@ -5,4 +5,4 @@ While Keyboard Layout Editor doesn't name its objects, naming is a required attr
 
 `Keyboard Layout Editor Example <http://www.keyboard-layout-editor.com/#/gists/f7528ebe1348daab7abc45bc2f662c8a>`_
 
-This layout is the testing ground for KLE to KRK translation and loads into KRK and serves as good reference. If you haven't started your layout yet, this is a good place to begin.
+This layout is the testing ground for KLE to KRK translation and loads into KRK and serves as good reference. If you haven't started your layout yet, this is a good place to begin. It may look familiar and that is because it is the layout that is used for keycap UV and textures in KRK.
