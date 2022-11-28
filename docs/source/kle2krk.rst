@@ -5,7 +5,7 @@ While Keyboard Layout Editor doesn't name its objects, naming is a required attr
 
 |
 
-What can you expect to translate into KRK? The translator takes into consideration size, legend, row, color, position and rotation. You may modify the last three without repercussion but know that a keycap may not import if you modify the first three and there is no destination object data.
+What can you expect to translate into KRK? The translator takes into consideration size, legend, row, color (cap and legend), position and rotation. You may modify the last three without repercussion but know that a keycap may not import if you modify the first three and there is no destination object data.
 
 |
 
