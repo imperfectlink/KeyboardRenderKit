@@ -79,6 +79,7 @@ Links
    workflow2
    switchesstabs
    board_custom
+   kle2krk
    
 .. toctree::
    :maxdepth: 4
