@@ -1,6 +1,42 @@
 Release Logs
 ====
 
+KRK206
+~~~~
+
+Added: Akko ACR75 board
+
+Added: Akko Alice board
+
+Added: SLK Profile in downloads
+
+Added: PBS Profile in downloads
+
+Added: XDA profile in downloads
+
+Fixed: Fixed USB cable UV breaking in Blender 3.4
+
+Fixed: Fixed regression where the Collection Restore would break the USB cable controls
+
+|
+
+KRK205
+~~~~
+
+Added: Werk One board
+
+Added: Kailh Choc V1 Switch
+
+Added: Kailh Choc Keycap Blank
+
+Added: MBK Keycap Blank
+
+Improved: Added Gloss Colour to Polycarbonate2
+
+Improved: Improvements to Restore Collections
+
+|
+
 KRK204
 ~~~~
 
