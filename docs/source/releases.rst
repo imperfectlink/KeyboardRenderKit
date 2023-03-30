@@ -1,6 +1,44 @@
 Release Logs
 ====
 
+KRK207:
+
+Added: Mode Thirteen board
+
+Added: Akuma board
+
+Added: Floor_Stucco
+
+Added: Floor_HexTile
+
+Added: Palette16 nodegroup
+
+Added: Palette_E4 nodegroup (now default for legends)
+
+Added: Palette_E8 nodegroup
+
+Added: 1.5U Cherry Space Convex
+
+Added: Legends Mask output for shader mixing
+
+Added: Ability to call up variations for geometry legended cap models
+
+Added: Ability to import and export colour schemes (custom colour mode)
+
+Improved: Renamed Palette_E to Palette_E4A to denote 4 slots with alphas
+
+Improved: Added custom shape option to deskmat (find it in modifiers)
+
+Improved: Keycap homing options now renamed to Variation to add functionality
+
+Fixed: Some profiles were missing keycaps: K2 PgDn, K3 PgUp, K3 NumMinus, K4 End, K6 Fn, K3 1.5 Del, K4 1.5 Caps, K4 Pipe, K3 Pipe
+
+Fixed: Separated all Homing variants (F,J,Num5,H,A,U,N,T) from shapekeys in profiles DSA, DSS, KAM, KAT, OEM, SA
+
+Fixed: Moved SwitchComplex geometry 0.33mm on Y axis to align better with stems
+
+|
+
 KRK206
 ~~~~
 
