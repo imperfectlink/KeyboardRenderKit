@@ -3,7 +3,7 @@ Release Logs
 
 KRK207:
 
-Added: Mode Thirteen board
+Added: Model Thirteen board
 
 Added: Akuma board
 
