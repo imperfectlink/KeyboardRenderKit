@@ -32,10 +32,22 @@ SA
 ~~~~
 Forked from KRK1 SA model. Use subdivision modifier to smooth out sides.
 
-PLA
-~~~~
-Placeholder profile. 
+Additional Profiles
+====
 
 KRK
 ~~~~
 KRK1 keycap models including switch UI. Must be imported. 
+
+PBS
+~~~~
+PBS profile, with stems. Must be imported.
+
+PLA
+~~~~
+Placeholder profile.
+
+SLK
+~~~~
+SLK Profile, with stems. Must be imported.
+
