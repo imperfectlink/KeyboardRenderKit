@@ -19,7 +19,7 @@ Drag the Capsmat from the Asset Browser onto one of the keycaps. With that keyca
 
 |
 
-.. note:: If you do not plan to do any post processing to your final image (not recommended), at least set the colour management profile to "Standard" or set the look to "Medium High".
+.. note:: If you do not plan to do any post processing to your final image (not recommended), at least set the colour management profile to "Standard" or set the look to "Medium High Contrast".
 
 |
 The palette system is designed to facilitate color exploration. You can start off with custom colors on a per object basis and then later take a more rigid approach using defined palettes in the material editor.
