@@ -17,6 +17,10 @@ Now click on Copy in the Color section of the KRK panel. This stores the color i
 
 |
 
+.. note:: If you do not plan to do any post processing to your final image (not recommended), at least set the colour management profile to "Standard" or set the look to "Medium High Contrast".
+
+|
+
 Now hide the Kits collection using the visibility options in the Outliner.
 
 .. image:: img/TurnOffKits.gif
