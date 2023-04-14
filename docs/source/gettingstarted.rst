@@ -11,7 +11,7 @@ In your download section, you'll find a zip file containing a blend file and a t
 
 Getting Started
 ~~~~
-Getting started with KRK2 is as simple as it was in the original KRK. Using Blender (3.1 or later), open the blend file and everything you need to get started is packed in the file. Upon opening the blend file, you will be asked whether to allow or ignore the script that is built into the file. The KRK2 panel requires the script to be running in order to function so choose to allow it here.
+Getting started with KRK2 is as simple as it was in the original KRK. Using Blender (3.3 or later), open the blend file and everything you need to get started is packed in the file. Upon opening the blend file, you will be asked whether to allow or ignore the script that is built into the file. The KRK2 panel requires the script to be running in order to function so choose to allow it here.
 
 .. image:: img/allowscript.jpg
 
