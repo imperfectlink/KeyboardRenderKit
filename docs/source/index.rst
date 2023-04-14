@@ -12,7 +12,7 @@ KRK2 builds on the object data swapping workflow of KRK1 while making everything
 
 Requirements
 ~~~~
-**Blender 3.2 or newer**
+**Blender 3.3 or newer**
 
 **Blender Cycles capable machine**
 
