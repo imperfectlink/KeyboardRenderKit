@@ -1,6 +1,48 @@
 Release Logs
 ====
 
+KRK208:
+
+Added: Stickers
+
+Added: Mega40 Keyboard
+
+Added: Thok Artisan Display accessory
+
+Added: LegendSeam Width value to Capsmat
+
+Added: Coil setting to coiled cables to control tightness
+
+Improved: Reworked cable materials
+
+Improved: Updated Model Thirteen
+
+Improved: Reworked cables to start as mesh lines in prep for future update
+
+Improved: Noise Detail and Noise Roughness on Alu_Shimmer nodegroup
+
+Improved: Removed some duplicate material node groups
+
+Improved: Renamed Capsmat node groups
+
+Improved: Added custom colour values to default kit keycaps
+
+Improved: Renamed Palette to Palette8 to denote the number of slots
+
+Improved: Reworked UV on the Ikki68 Aurora to allow for graphics
+
+Improved: Exposed some settings on the cables
+
+Fixed: LShift in kits had a different palette value and as a result wasn't part of default select group
+
+Fixed: Stucco floor was -1mm in the Z axis
+
+Fixed: Switch puller origin
+
+Fixed: G305 face orientation
+
+|
+
 KRK207:
 
 Added: Model Thirteen board
