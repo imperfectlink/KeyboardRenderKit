@@ -1,6 +1,33 @@
 Release Logs
 ====
 
+
+KRK209:
+
+Move to Blender 3.6 from 3.3
+
+Added: USBCableV3
+
+Added: DeskmatV3_Leather
+
+Added: Legend Offset settings
+
+Added: Floor_TechPanel
+
+Added: Floor_CarbonFibre
+
+Added: Floor_DiamondPlate
+
+Improved: DeskMatV3 with more edging control
+
+Improved: Wristrest reworked to V2
+
+Improved: Separated Custom and Palette toggle so that cap modes aren't changed when you view them
+
+Fixed: W1AT bottom row layer turned off
+
+|
+
 KRK208:
 
 Added: Stickers
