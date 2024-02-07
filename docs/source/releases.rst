@@ -2,6 +2,48 @@ Release Logs
 ====
 
 
+KRK210:
+
+Added:ISOGR board
+
+Added: Event Horizon board
+
+Added: Bakeneko-60 board
+
+Added: Bakeneko-60PLA board
+
+Added: Bakeneko-65 board
+
+Added: Bakeneko-65_PLA board
+
+Added: Monsgeek M1 board
+
+Added: F# board
+
+Improved: Updated KLE table to make KLE import more robust (thanks SpikedSynapse)
+
+Improved: Updated KRK script for 4.+ compatibility
+
+Improved: Moved compositor tab to be next to the KRK tab
+
+Fixed: Added AOV to fix diffuse colour pass issue
+
+Fixed: Updated Color JSON to fix the copied accents
+
+Fixed: Deskmat texture coordinated switched to texture from point
+
+Fixed: KAT K3 1.5 Backspace model
+
+Fixed: Normals on Che-2 6.25 Spacebar
+
+Fixed: OGR Bottom row default
+
+Fixed: Front UV on CHE-2 Question was in wrong position
+
+Fixed: Switch position relative to CHE-2 stem
+
+|
+
 KRK209:
 
 Move to Blender 3.6 from 3.3
