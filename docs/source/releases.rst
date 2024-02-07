@@ -4,6 +4,8 @@ Release Logs
 
 KRK210:
 
+Move to Blender 4.0
+
 Added:ISOGR board
 
 Added: Event Horizon board
