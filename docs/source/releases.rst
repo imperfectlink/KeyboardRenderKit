@@ -76,7 +76,7 @@ KRK208:
 
 Added: Stickers
 
-Added: Mega40 Keyboard
+Added: Giga40 Keyboard
 
 Added: Thok Artisan Display accessory
 
