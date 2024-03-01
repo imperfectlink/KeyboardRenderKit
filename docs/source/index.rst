@@ -43,6 +43,7 @@ Links
    materials
    outliner
    properties
+   colourman
 
 .. toctree::
    :maxdepth: 4
