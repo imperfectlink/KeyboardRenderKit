@@ -84,6 +84,4 @@ Then in the Material Editor, click on the dropdown in the top left and switch it
 
 You may wish to manipulate the image so create a Mapping node and Texture Coordinate and connect it as seen in the image. Here I've rotated the image 52 degrees to find an interesting highlight on the right edge of the board and also doubled the intensity of the HDRI.
 
-
 .. image:: img/PolyHaven_12b.jpg
-
