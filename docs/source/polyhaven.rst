@@ -55,7 +55,7 @@ By default, there is not enough geometry for the displacement to push and the sc
 
 |
 
-The floor is now ready for rendering.
+Since there is a displacement, It is also a good idea to move the floor object down. This one has been moved 7mm. The floor is now ready for rendering.
 
 .. image:: img/PolyHaven_08.jpg
 
