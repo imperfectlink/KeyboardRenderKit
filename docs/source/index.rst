@@ -88,6 +88,7 @@ Links
    :caption: Further Information
    
    optimization
+   polyhaven
    krk2max
    krk2c4d
    
