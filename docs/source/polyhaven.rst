@@ -45,9 +45,19 @@ In order to import Blend file contents, you need to use the Append or Link funct
 
 It will append into whichever collection you have active in the outliner. With the floor in your scene, you can now make changes to it.
 
+.. image:: img/PolyHaven_06.jpg
+
 |
 
-I found that 
+By default, there is not enough geometry for the displacement to push and the scale of the texture feels too large for the context. Change that by plugging a Value node into the scale and set that to 2 to double the scale. Based on my camera angle, I also used the mapping node to move the texture 80mm. In the modifier tab, find the subdivision modifier and change the subdivision level to 10 in order to have more geometry to support the detail of the displacement image.
+
+.. image:: img/PolyHaven_07.jpg
+
+|
+
+The floor is now ready for rendering.
+
+.. image:: /img/PolyHaven_08.jpg
 
 |
 
