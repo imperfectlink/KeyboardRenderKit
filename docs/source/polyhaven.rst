@@ -57,6 +57,8 @@ By default, there is not enough geometry for the displacement to push and the sc
 
 The floor is now ready for rendering.
 
+|
+
 .. image:: /img/PolyHaven_08.jpg
 
 |
