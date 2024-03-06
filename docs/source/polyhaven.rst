@@ -76,7 +76,14 @@ Disable the Lights collection in the Outliner.
 
 |
 
-Then in the Material Editor, click on the dropdown in the top left and switch it from Object to World. There is already a world set up. Unmute the image node by selecting it and pressing M, then click on Open to load in the Leadenhall Market image. You may wish to manipulate the image so create a Mapping node and Texture Coordinate and connect it as seen in the image. Here I've rotated the image 52 degrees.
+Then in the Material Editor, click on the dropdown in the top left and switch it from Object to World. There is already a world set up. Unmute the image node by selecting it and pressing M, then click on Open to load in the Leadenhall Market image.
 
 .. image:: img/PolyHaven_11.jpg
+
+|
+
+You may wish to manipulate the image so create a Mapping node and Texture Coordinate and connect it as seen in the image. Here I've rotated the image 52 degrees to find an interesting highlight on the right edge of the board.
+
+
+.. image:: img/PolyHaven_12.jpg
 
