@@ -64,3 +64,5 @@ The floor is now ready for rendering.
 Environment
 ~~~~
 
+Keep in mind that while HDRI lighting adds a degree of realism, it also affects colour, which is fine for board and scene renders but not for kit renders where colour accuracy is critical.
+
