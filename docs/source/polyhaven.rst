@@ -64,5 +64,19 @@ Since there is a displacement, It is also a good idea to move the floor object d
 Environment
 ~~~~
 
-Keep in mind that while HDRI lighting adds a degree of realism, it also affects colour, which is fine for board and scene renders but not for kit renders where colour accuracy is critical.
+Keep in mind that while HDRI lighting adds a degree of realism, it also affects colour, which is fine for board and scene renders but not for kit renders where colour accuracy is critical. To add one in, go to Poly Haven and click on Assets>HDRIs and choose one to download. In this example, we're using Leadenhall Market which downloads as an EXR image file.
+
+.. image:: img/PolyHaven_09.jpg
+
+|
+
+Disable the Lights collection in the Outliner.
+
+.. image:: img/PolyHaven_10.jpg
+
+|
+
+Then in the Material Editor, click on the dropdown in the top left and switch it from Object to World. There is already a world set up. Unmute the image node by selecting it and pressing M, then click on Open to load in the Leadenhall Market image. You may wish to manipulate the image so create a Mapping node and Texture Coordinate and connect it as seen in the image. Here I've rotated the image 52 degrees.
+
+.. image:: img/PolyHaven_11.jpg
 
