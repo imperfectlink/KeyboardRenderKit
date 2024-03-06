@@ -37,10 +37,13 @@ Click on the download button and allow the zip file to download. Browse to the d
 
 |
   
-In order to import Blend file contents, you need to use the Append or Link function to bring it in. For this process, we'll append the floor and not maintain a link to the original. In Blender, click on File>Append to initiate the import of the Poly Haven floor. From here, choose the Object subcategory and find the floor which is likely named "Plane". It will append into whichever collection you have active in the outliner.
-With the floor in your scene, you can now make changes to it.
+In order to import Blend file contents, you need to use the Append or Link function to bring it in. For this process, we'll append the floor and not maintain a link to the original. In Blender, click on File>Append to initiate the import of the Poly Haven floor. From here, choose the Object subcategory and find the floor which is likely named "Plane". 
 
 .. image:: img/PolyHaven_05.jpg
+
+|
+
+It will append into whichever collection you have active in the outliner. With the floor in your scene, you can now make changes to it.
 
 |
 
